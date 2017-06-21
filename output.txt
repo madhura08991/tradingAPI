@@ -1,0 +1,4648 @@
+Trading Simulation
+Enter Stock Code: Enter the lot size of Stock: Enter the first position(CE/PE): Enter the second position(CE/PE): CE PE
+Enter first position strike price: Enter second position strike price: Enter the first position action: Enter the second position action: First Position: CE Sell at 500
+Second Position: PE Sell at 500
+Iteration: 0
+value error detected
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Value error detected
+Iteration: 1
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 2
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 3
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 4
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 5
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 6
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 7
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 8
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 9
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 10
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 11
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 12
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 13
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 14
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 15
+value error detected
+Value changed from: 0->0
+Not enough difference no action
+Value error detected
+Iteration: 16
+Value changed from: 0->36.6
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Value Error detected again.....
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Value Error detected again......
+Iteration: 17
+Value changed from: 36.6->36.6
+Not enough difference no action
+Iteration: 18
+Value changed from: 36.6->36.6
+Not enough difference no action
+Iteration: 19
+Value changed from: 36.6->35.9
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 20
+Value changed from: 35.9->36.4
+Not enough difference no action
+Iteration: 21
+Value changed from: 36.4->35.8
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 22
+Value changed from: 35.8->35.85
+Not enough difference no action
+Iteration: 23
+Value changed from: 35.85->35.8
+Not enough difference no action
+Iteration: 24
+Value changed from: 35.8->36.8
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 25
+Value changed from: 36.8->35.85
+Not enough difference no action
+Iteration: 26
+Value changed from: 35.85->36.15
+Not enough difference no action
+Iteration: 27
+Value changed from: 36.15->35.1
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 28
+Value changed from: 35.1->35.4
+Not enough difference no action
+Iteration: 29
+Value changed from: 35.4->35.5
+Not enough difference no action
+Iteration: 30
+Value changed from: 35.5->35.2
+Not enough difference no action
+Iteration: 31
+Value changed from: 35.2->34.9
+Not enough difference no action
+Iteration: 32
+Value changed from: 34.9->34.85
+Not enough difference no action
+Iteration: 33
+Value changed from: 34.85->35.85
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 34
+Value changed from: 35.85->35.5
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 35
+Value changed from: 35.5->35.4
+Not enough difference no action
+Iteration: 36
+Value changed from: 35.4->35.4
+Not enough difference no action
+Iteration: 37
+Value changed from: 35.4->35.4
+Not enough difference no action
+Iteration: 38
+Value changed from: 35.4->35.3
+Not enough difference no action
+Iteration: 39
+Value changed from: 35.3->35.5
+Not enough difference no action
+Iteration: 40
+Value changed from: 35.5->35.65
+Not enough difference no action
+Iteration: 41
+Value changed from: 35.65->35.55
+Not enough difference no action
+Iteration: 42
+Value changed from: 35.55->35.85
+Not enough difference no action
+Iteration: 43
+Value changed from: 35.85->35.65
+Not enough difference no action
+Iteration: 44
+Value changed from: 35.65->36.0
+Not enough difference no action
+Iteration: 45
+Value changed from: 36.0->35.75
+Not enough difference no action
+Iteration: 46
+Value changed from: 35.75->35.75
+Not enough difference no action
+Iteration: 47
+Value changed from: 35.75->35.95
+Not enough difference no action
+Iteration: 48
+Value changed from: 35.95->35.7
+Not enough difference no action
+Iteration: 49
+Value changed from: 35.7->34.9
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 50
+Value changed from: 34.9->34.9
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 51
+Value changed from: 34.9->34.5
+Not enough difference no action
+Iteration: 52
+Value changed from: 34.5->35.05
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 53
+Value changed from: 35.05->35.15
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 54
+Value changed from: 35.15->35.15
+Not enough difference no action
+Iteration: 55
+Value changed from: 35.15->34.8
+Not enough difference no action
+Iteration: 56
+Value changed from: 34.8->35.1
+Not enough difference no action
+Iteration: 57
+Value changed from: 35.1->35.15
+Not enough difference no action
+Iteration: 58
+Value changed from: 35.15->35.1
+Not enough difference no action
+Iteration: 59
+Value changed from: 35.1->35.1
+Not enough difference no action
+Iteration: 60
+Value changed from: 35.1->35.35
+Not enough difference no action
+Iteration: 61
+Value changed from: 35.35->35.2
+Not enough difference no action
+Iteration: 62
+Value changed from: 35.2->35.2
+Not enough difference no action
+Iteration: 63
+Value changed from: 35.2->35.15
+Not enough difference no action
+Iteration: 64
+Value changed from: 35.15->35.0
+Not enough difference no action
+Iteration: 65
+Value changed from: 35.0->34.7
+Not enough difference no action
+Iteration: 66
+Value changed from: 34.7->34.95
+Not enough difference no action
+Iteration: 67
+Value changed from: 34.95->34.9
+Not enough difference no action
+Iteration: 68
+Value changed from: 34.9->34.8
+Not enough difference no action
+Iteration: 69
+Value changed from: 34.8->34.9
+Not enough difference no action
+Iteration: 70
+Value changed from: 34.9->35.05
+Not enough difference no action
+Iteration: 71
+Value changed from: 35.05->35.05
+Not enough difference no action
+Iteration: 72
+Value changed from: 35.05->35.05
+Not enough difference no action
+Iteration: 73
+Value changed from: 35.05->34.9
+Not enough difference no action
+Iteration: 74
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 75
+Value changed from: 34.9->35.3
+Not enough difference no action
+Iteration: 76
+Value changed from: 35.3->35.15
+Not enough difference no action
+Iteration: 77
+Value changed from: 35.15->34.75
+Not enough difference no action
+Iteration: 78
+Value changed from: 34.75->34.5
+Not enough difference no action
+Iteration: 79
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 80
+Value changed from: 34.5->34.9
+Not enough difference no action
+Iteration: 81
+Value changed from: 34.9->34.75
+Not enough difference no action
+Iteration: 82
+Value changed from: 34.75->34.65
+Not enough difference no action
+Iteration: 83
+Value changed from: 34.65->34.75
+Not enough difference no action
+Iteration: 84
+Value changed from: 34.75->34.75
+Not enough difference no action
+Iteration: 85
+Value changed from: 34.75->34.6
+Not enough difference no action
+Iteration: 86
+Value changed from: 34.6->34.7
+Not enough difference no action
+Iteration: 87
+Value changed from: 34.7->34.8
+Not enough difference no action
+Iteration: 88
+Value changed from: 34.8->34.7
+Not enough difference no action
+Iteration: 89
+Value changed from: 34.7->34.8
+Not enough difference no action
+Iteration: 90
+Value changed from: 34.8->34.9
+Not enough difference no action
+Iteration: 91
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 92
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 93
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 94
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 95
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 96
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 97
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 98
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 99
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 100
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 101
+Value changed from: 34.9->34.85
+Not enough difference no action
+Iteration: 102
+Value changed from: 34.85->34.9
+Not enough difference no action
+Iteration: 103
+Value changed from: 34.9->34.95
+Not enough difference no action
+Iteration: 104
+Value changed from: 34.95->34.9
+Not enough difference no action
+Iteration: 105
+Value changed from: 34.9->34.75
+Not enough difference no action
+Iteration: 106
+Value changed from: 34.75->34.65
+Not enough difference no action
+Iteration: 107
+Value changed from: 34.65->35.0
+Not enough difference no action
+Iteration: 108
+Value changed from: 35.0->34.9
+Not enough difference no action
+Iteration: 109
+Value changed from: 34.9->35.3
+Not enough difference no action
+Iteration: 110
+Value changed from: 35.3->35.8
+Not enough difference no action
+Iteration: 111
+Value changed from: 35.8->35.45
+Not enough difference no action
+Iteration: 112
+Value changed from: 35.45->35.1
+Not enough difference no action
+Iteration: 113
+Value changed from: 35.1->35.1
+Not enough difference no action
+Iteration: 114
+Value changed from: 35.1->35.2
+Not enough difference no action
+Iteration: 115
+Value changed from: 35.2->35.4
+Not enough difference no action
+Iteration: 116
+Value changed from: 35.4->35.5
+Not enough difference no action
+Iteration: 117
+Value changed from: 35.5->35.75
+Not enough difference no action
+Iteration: 118
+Value changed from: 35.75->35.75
+Not enough difference no action
+Iteration: 119
+Value changed from: 35.75->35.75
+Not enough difference no action
+Iteration: 120
+Value changed from: 35.75->35.75
+Not enough difference no action
+Iteration: 121
+Value changed from: 35.75->35.75
+Not enough difference no action
+Iteration: 122
+Value changed from: 35.75->35.75
+Not enough difference no action
+Iteration: 123
+Value changed from: 35.75->35.75
+Not enough difference no action
+Iteration: 124
+Value changed from: 35.75->35.75
+Not enough difference no action
+Iteration: 125
+Value changed from: 35.75->35.75
+Not enough difference no action
+Iteration: 126
+Value changed from: 35.75->35.8
+Not enough difference no action
+Iteration: 127
+Value changed from: 35.8->35.8
+Not enough difference no action
+Iteration: 128
+Value changed from: 35.8->35.8
+Not enough difference no action
+Iteration: 129
+Value changed from: 35.8->35.6
+Not enough difference no action
+Iteration: 130
+Value changed from: 35.6->35.7
+Not enough difference no action
+Iteration: 131
+Value changed from: 35.7->35.7
+Not enough difference no action
+Iteration: 132
+Value changed from: 35.7->34.8
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 133
+Value changed from: 34.8->34.65
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 134
+Value changed from: 34.65->34.9
+Not enough difference no action
+Iteration: 135
+Value changed from: 34.9->34.85
+Not enough difference no action
+Iteration: 136
+Value changed from: 34.85->34.85
+Not enough difference no action
+Iteration: 137
+Value changed from: 34.85->34.6
+Not enough difference no action
+Iteration: 138
+Value changed from: 34.6->34.85
+Not enough difference no action
+Iteration: 139
+Value changed from: 34.85->34.6
+Not enough difference no action
+Iteration: 140
+Value changed from: 34.6->34.5
+Not enough difference no action
+Iteration: 141
+Value changed from: 34.5->34.55
+Not enough difference no action
+Iteration: 142
+Value changed from: 34.55->34.6
+Not enough difference no action
+Iteration: 143
+Value changed from: 34.6->34.6
+Not enough difference no action
+Iteration: 144
+Value changed from: 34.6->34.6
+Not enough difference no action
+Iteration: 145
+Value changed from: 34.6->34.65
+Not enough difference no action
+Iteration: 146
+Value changed from: 34.65->34.65
+Not enough difference no action
+Iteration: 147
+Value changed from: 34.65->34.45
+Not enough difference no action
+Iteration: 148
+Value changed from: 34.45->34.3
+Not enough difference no action
+Iteration: 149
+Value changed from: 34.3->34.3
+Not enough difference no action
+Iteration: 150
+Value changed from: 34.3->34.45
+Not enough difference no action
+Iteration: 151
+Value changed from: 34.45->34.45
+Not enough difference no action
+Iteration: 152
+Value changed from: 34.45->34.45
+Not enough difference no action
+Iteration: 153
+Value changed from: 34.45->34.45
+Not enough difference no action
+Iteration: 154
+Value changed from: 34.45->34.15
+Not enough difference no action
+Iteration: 155
+Value changed from: 34.15->34.2
+Not enough difference no action
+Iteration: 156
+Value changed from: 34.2->34.2
+Not enough difference no action
+Iteration: 157
+Value changed from: 34.2->34.2
+Not enough difference no action
+Iteration: 158
+Value changed from: 34.2->34.2
+Not enough difference no action
+Iteration: 159
+Value changed from: 34.2->34.9
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 160
+Value changed from: 34.9->34.9
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 161
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 162
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 163
+Value changed from: 34.9->34.9
+Not enough difference no action
+Iteration: 164
+Value changed from: 34.9->34.95
+Not enough difference no action
+Iteration: 165
+Value changed from: 34.95->35.1
+Not enough difference no action
+Iteration: 166
+Value changed from: 35.1->35.1
+Not enough difference no action
+Iteration: 167
+Value changed from: 35.1->35.05
+Not enough difference no action
+Iteration: 168
+Value changed from: 35.05->35.05
+Not enough difference no action
+Iteration: 169
+Value changed from: 35.05->34.95
+Not enough difference no action
+Iteration: 170
+Value changed from: 34.95->34.75
+Not enough difference no action
+Iteration: 171
+Value changed from: 34.75->34.95
+Not enough difference no action
+Iteration: 172
+Value changed from: 34.95->34.95
+Not enough difference no action
+Iteration: 173
+Value changed from: 34.95->34.95
+Not enough difference no action
+Iteration: 174
+Value changed from: 34.95->34.95
+Not enough difference no action
+Iteration: 175
+Value changed from: 34.95->34.95
+Not enough difference no action
+Iteration: 176
+Value changed from: 34.95->34.95
+Not enough difference no action
+Iteration: 177
+Value changed from: 34.95->34.95
+Not enough difference no action
+Iteration: 178
+Value changed from: 34.95->34.85
+Not enough difference no action
+Iteration: 179
+Value changed from: 34.85->34.6
+Not enough difference no action
+Iteration: 180
+Value changed from: 34.6->34.6
+Not enough difference no action
+Iteration: 181
+Value changed from: 34.6->34.6
+Not enough difference no action
+Iteration: 182
+Value changed from: 34.6->34.6
+Not enough difference no action
+Iteration: 183
+Value changed from: 34.6->34.7
+Not enough difference no action
+Iteration: 184
+Value changed from: 34.7->34.4
+Not enough difference no action
+Iteration: 185
+Value changed from: 34.4->34.5
+Not enough difference no action
+Iteration: 186
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 187
+Value changed from: 34.5->34.25
+Not enough difference no action
+Iteration: 188
+Value changed from: 34.25->34.75
+Not enough difference no action
+Iteration: 189
+Value changed from: 34.75->34.75
+Not enough difference no action
+Iteration: 190
+Value changed from: 34.75->34.95
+Not enough difference no action
+Iteration: 191
+Value changed from: 34.95->34.75
+Not enough difference no action
+Iteration: 192
+Value changed from: 34.75->34.75
+Not enough difference no action
+Iteration: 193
+Value changed from: 34.75->34.75
+Not enough difference no action
+Iteration: 194
+Value changed from: 34.75->34.75
+Not enough difference no action
+Iteration: 195
+Value changed from: 34.75->34.55
+Not enough difference no action
+Iteration: 196
+Value changed from: 34.55->34.5
+Not enough difference no action
+Iteration: 197
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 198
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 199
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 200
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 201
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 202
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 203
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 204
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 205
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 206
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 207
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 208
+Value changed from: 34.5->34.8
+Not enough difference no action
+Iteration: 209
+Value changed from: 34.8->34.4
+Not enough difference no action
+Iteration: 210
+Value changed from: 34.4->34.45
+Not enough difference no action
+Iteration: 211
+Value changed from: 34.45->34.6
+Not enough difference no action
+Iteration: 212
+Value changed from: 34.6->34.0
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 213
+Value changed from: 34.0->34.65
+Not enough difference no action
+Iteration: 214
+Value changed from: 34.65->34.4
+Not enough difference no action
+Iteration: 215
+Value changed from: 34.4->34.6
+Not enough difference no action
+Iteration: 216
+Value changed from: 34.6->34.2
+Not enough difference no action
+Iteration: 217
+Value changed from: 34.2->34.3
+Not enough difference no action
+Iteration: 218
+Value changed from: 34.3->34.65
+Not enough difference no action
+Iteration: 219
+Value changed from: 34.65->34.45
+Not enough difference no action
+Iteration: 220
+Value changed from: 34.45->34.1
+Not enough difference no action
+Iteration: 221
+Value changed from: 34.1->34.15
+Not enough difference no action
+Iteration: 222
+Value changed from: 34.15->34.5
+Not enough difference no action
+Iteration: 223
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 224
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 225
+Value changed from: 34.5->34.35
+Not enough difference no action
+Iteration: 226
+Value changed from: 34.35->34.25
+Not enough difference no action
+Iteration: 227
+Value changed from: 34.25->34.25
+Not enough difference no action
+Iteration: 228
+Value changed from: 34.25->34.05
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 229
+Value changed from: 34.05->34.3
+Not enough difference no action
+Iteration: 230
+Value changed from: 34.3->34.2
+Not enough difference no action
+Iteration: 231
+Value changed from: 34.2->34.2
+Not enough difference no action
+Iteration: 232
+Value changed from: 34.2->34.0
+Not enough difference no action
+Iteration: 233
+Value changed from: 34.0->34.05
+Not enough difference no action
+Iteration: 234
+Value changed from: 34.05->34.05
+Not enough difference no action
+Iteration: 235
+Value changed from: 34.05->33.75
+Not enough difference no action
+Iteration: 236
+Value changed from: 33.75->34.05
+Not enough difference no action
+Iteration: 237
+Value changed from: 34.05->34.2
+Not enough difference no action
+Iteration: 238
+Value changed from: 34.2->34.05
+Not enough difference no action
+Iteration: 239
+Value changed from: 34.05->34.4
+Not enough difference no action
+Iteration: 240
+Value changed from: 34.4->34.4
+Not enough difference no action
+Iteration: 241
+Value changed from: 34.4->34.55
+Not enough difference no action
+Iteration: 242
+Value changed from: 34.55->34.45
+Not enough difference no action
+Iteration: 243
+Value changed from: 34.45->34.45
+Not enough difference no action
+Iteration: 244
+Value changed from: 34.45->34.2
+Not enough difference no action
+Iteration: 245
+Value changed from: 34.2->34.25
+Not enough difference no action
+Iteration: 246
+Value changed from: 34.25->34.15
+Not enough difference no action
+Iteration: 247
+Value changed from: 34.15->34.15
+Not enough difference no action
+Iteration: 248
+Value changed from: 34.15->34.15
+Not enough difference no action
+Iteration: 249
+Value changed from: 34.15->34.15
+Not enough difference no action
+Iteration: 250
+Value changed from: 34.15->34.0
+Not enough difference no action
+Iteration: 251
+Value changed from: 34.0->34.15
+Not enough difference no action
+Iteration: 252
+Value changed from: 34.15->34.3
+Not enough difference no action
+Iteration: 253
+Value changed from: 34.3->34.1
+Not enough difference no action
+Iteration: 254
+Value changed from: 34.1->34.4
+Not enough difference no action
+Iteration: 255
+Value changed from: 34.4->34.4
+Not enough difference no action
+Iteration: 256
+Value changed from: 34.4->34.5
+Not enough difference no action
+Iteration: 257
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 258
+Value changed from: 34.5->34.45
+Not enough difference no action
+Iteration: 259
+Value changed from: 34.45->34.45
+Not enough difference no action
+Iteration: 260
+Value changed from: 34.45->34.45
+Not enough difference no action
+Iteration: 261
+Value changed from: 34.45->34.45
+Not enough difference no action
+Iteration: 262
+Value changed from: 34.45->34.35
+Not enough difference no action
+Iteration: 263
+Value changed from: 34.35->34.6
+Not enough difference no action
+Iteration: 264
+Value changed from: 34.6->34.4
+Not enough difference no action
+Iteration: 265
+Value changed from: 34.4->34.45
+Not enough difference no action
+Iteration: 266
+Value changed from: 34.45->34.5
+Not enough difference no action
+Iteration: 267
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 268
+Value changed from: 34.5->34.5
+Not enough difference no action
+Iteration: 269
+Value changed from: 34.5->34.65
+Not enough difference no action
+Iteration: 270
+Value changed from: 34.65->34.65
+Not enough difference no action
+Iteration: 271
+Value changed from: 34.65->34.6
+Not enough difference no action
+Iteration: 272
+Value changed from: 34.6->34.55
+Not enough difference no action
+Iteration: 273
+Value changed from: 34.55->34.45
+Not enough difference no action
+Iteration: 274
+Value changed from: 34.45->34.35
+Not enough difference no action
+Iteration: 275
+Value changed from: 34.35->34.3
+Not enough difference no action
+Iteration: 276
+Value changed from: 34.3->34.35
+Not enough difference no action
+Iteration: 277
+Value changed from: 34.35->33.05
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 278
+Value changed from: 33.05->32.95
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 279
+Value changed from: 32.95->33.55
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 280
+Value changed from: 33.55->33.3
+Not enough difference no action
+Iteration: 281
+Value changed from: 33.3->33.1
+Not enough difference no action
+Iteration: 282
+Value changed from: 33.1->33.05
+Not enough difference no action
+Iteration: 283
+Value changed from: 33.05->33.1
+Not enough difference no action
+Iteration: 284
+Value changed from: 33.1->32.9
+Not enough difference no action
+Iteration: 285
+Value changed from: 32.9->33.5
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 286
+Value changed from: 33.5->33.3
+Not enough difference no action
+Iteration: 287
+Value changed from: 33.3->33.1
+Not enough difference no action
+Iteration: 288
+Value changed from: 33.1->33.1
+Not enough difference no action
+Iteration: 289
+Value changed from: 33.1->33.0
+Not enough difference no action
+Iteration: 290
+Value changed from: 33.0->33.3
+Not enough difference no action
+Iteration: 291
+Value changed from: 33.3->33.4
+Not enough difference no action
+Iteration: 292
+Value changed from: 33.4->33.35
+Not enough difference no action
+Iteration: 293
+Value changed from: 33.35->33.35
+Not enough difference no action
+Iteration: 294
+Value changed from: 33.35->33.35
+Not enough difference no action
+Iteration: 295
+Value changed from: 33.35->33.5
+Not enough difference no action
+Iteration: 296
+Value changed from: 33.5->33.5
+Not enough difference no action
+Iteration: 297
+Value changed from: 33.5->33.5
+Not enough difference no action
+Iteration: 298
+Value changed from: 33.5->33.5
+Not enough difference no action
+Iteration: 299
+Value changed from: 33.5->33.95
+Not enough difference no action
+Iteration: 300
+Value changed from: 33.95->33.7
+Not enough difference no action
+Iteration: 301
+Value changed from: 33.7->33.55
+Not enough difference no action
+Iteration: 302
+Value changed from: 33.55->33.35
+Not enough difference no action
+Iteration: 303
+Value changed from: 33.35->33.35
+Not enough difference no action
+Iteration: 304
+Value changed from: 33.35->33.45
+Not enough difference no action
+Iteration: 305
+Value changed from: 33.45->33.5
+Not enough difference no action
+Iteration: 306
+Value changed from: 33.5->33.65
+Not enough difference no action
+Iteration: 307
+Value changed from: 33.65->33.5
+Not enough difference no action
+Iteration: 308
+Value changed from: 33.5->33.25
+Not enough difference no action
+Iteration: 309
+Value changed from: 33.25->33.15
+Not enough difference no action
+Iteration: 310
+Value changed from: 33.15->34.1
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 311
+Value changed from: 34.1->33.75
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 312
+Value changed from: 33.75->33.8
+Not enough difference no action
+Iteration: 313
+Value changed from: 33.8->33.85
+Not enough difference no action
+Iteration: 314
+Value changed from: 33.85->33.75
+Not enough difference no action
+Iteration: 315
+Value changed from: 33.75->33.85
+Not enough difference no action
+Iteration: 316
+Value changed from: 33.85->33.85
+Not enough difference no action
+Iteration: 317
+Value changed from: 33.85->33.95
+Not enough difference no action
+Iteration: 318
+Value changed from: 33.95->33.95
+Not enough difference no action
+Iteration: 319
+Value changed from: 33.95->34.1
+Not enough difference no action
+Iteration: 320
+Value changed from: 34.1->33.55
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 321
+Value changed from: 33.55->33.6
+Not enough difference no action
+Iteration: 322
+Value changed from: 33.6->33.85
+Not enough difference no action
+Iteration: 323
+Value changed from: 33.85->33.6
+Not enough difference no action
+Iteration: 324
+Value changed from: 33.6->33.8
+Not enough difference no action
+Iteration: 325
+Value changed from: 33.8->33.8
+Not enough difference no action
+Iteration: 326
+Value changed from: 33.8->33.8
+Not enough difference no action
+Iteration: 327
+Value changed from: 33.8->33.8
+Not enough difference no action
+Iteration: 328
+Value changed from: 33.8->34.0
+Not enough difference no action
+Iteration: 329
+Value changed from: 34.0->33.9
+Not enough difference no action
+Iteration: 330
+Value changed from: 33.9->33.95
+Not enough difference no action
+Iteration: 331
+Value changed from: 33.95->34.1
+Not enough difference no action
+Iteration: 332
+Value changed from: 34.1->33.6
+Not enough difference no action
+Iteration: 333
+Value changed from: 33.6->33.45
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 334
+Value changed from: 33.45->33.5
+Not enough difference no action
+Iteration: 335
+Value changed from: 33.5->33.75
+Not enough difference no action
+Iteration: 336
+Value changed from: 33.75->33.8
+Not enough difference no action
+Iteration: 337
+Value changed from: 33.8->33.9
+Not enough difference no action
+Iteration: 338
+Value changed from: 33.9->33.6
+Not enough difference no action
+Iteration: 339
+Value changed from: 33.6->33.8
+Not enough difference no action
+Iteration: 340
+Value changed from: 33.8->33.65
+Not enough difference no action
+Iteration: 341
+Value changed from: 33.65->33.7
+Not enough difference no action
+Iteration: 342
+Value changed from: 33.7->33.7
+Not enough difference no action
+Iteration: 343
+Value changed from: 33.7->33.95
+Not enough difference no action
+Iteration: 344
+Value changed from: 33.95->34.05
+Not enough difference no action
+Iteration: 345
+Value changed from: 34.05->34.05
+Not enough difference no action
+Iteration: 346
+Value changed from: 34.05->34.05
+Not enough difference no action
+Iteration: 347
+Value changed from: 34.05->33.85
+Not enough difference no action
+Iteration: 348
+Value changed from: 33.85->33.9
+Not enough difference no action
+Iteration: 349
+Value changed from: 33.9->33.75
+Not enough difference no action
+Iteration: 350
+Value changed from: 33.75->33.8
+Not enough difference no action
+Iteration: 351
+Value changed from: 33.8->33.6
+Not enough difference no action
+Iteration: 352
+Value changed from: 33.6->33.7
+Not enough difference no action
+Iteration: 353
+Value changed from: 33.7->33.6
+Not enough difference no action
+Iteration: 354
+Value changed from: 33.6->33.5
+Not enough difference no action
+Iteration: 355
+Value changed from: 33.5->33.25
+Not enough difference no action
+Iteration: 356
+Value changed from: 33.25->33.9
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 357
+Value changed from: 33.9->33.8
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 358
+Value changed from: 33.8->33.95
+Not enough difference no action
+Iteration: 359
+Value changed from: 33.95->33.75
+Not enough difference no action
+Iteration: 360
+Value changed from: 33.75->33.8
+Not enough difference no action
+Iteration: 361
+Value changed from: 33.8->34.05
+Not enough difference no action
+Iteration: 362
+Value changed from: 34.05->34.15
+Not enough difference no action
+Iteration: 363
+Value changed from: 34.15->34.15
+Not enough difference no action
+Iteration: 364
+Value changed from: 34.15->34.15
+Not enough difference no action
+Iteration: 365
+Value changed from: 34.15->34.05
+Not enough difference no action
+Iteration: 366
+Value changed from: 34.05->34.05
+Not enough difference no action
+Iteration: 367
+Value changed from: 34.05->34.05
+Not enough difference no action
+Iteration: 368
+Value changed from: 34.05->33.7
+Not enough difference no action
+Iteration: 369
+Value changed from: 33.7->33.65
+Not enough difference no action
+Iteration: 370
+Value changed from: 33.65->33.65
+Not enough difference no action
+Iteration: 371
+Value changed from: 33.65->33.55
+Not enough difference no action
+Iteration: 372
+Value changed from: 33.55->34.3
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 373
+Value changed from: 34.3->34.1
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 374
+Value changed from: 34.1->34.1
+Not enough difference no action
+Iteration: 375
+Value changed from: 34.1->33.55
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 376
+Value changed from: 33.55->33.5
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 377
+Value changed from: 33.5->33.5
+Not enough difference no action
+Iteration: 378
+Value changed from: 33.5->33.5
+Not enough difference no action
+Iteration: 379
+Value changed from: 33.5->33.5
+Not enough difference no action
+Iteration: 380
+Value changed from: 33.5->32.85
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 381
+Value changed from: 32.85->34.2
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 382
+Value changed from: 34.2->34.2
+Not enough difference no action
+Iteration: 383
+Value changed from: 34.2->34.25
+Not enough difference no action
+Iteration: 384
+Value changed from: 34.25->34.45
+Not enough difference no action
+Iteration: 385
+Value changed from: 34.45->33.3
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 386
+Value changed from: 33.3->33.25
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 387
+Value changed from: 33.25->32.4
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 388
+Value changed from: 32.4->32.3
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 389
+Value changed from: 32.3->32.7
+Not enough difference no action
+Iteration: 390
+Value changed from: 32.7->32.75
+Not enough difference no action
+Iteration: 391
+Value changed from: 32.75->33.45
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 392
+Value changed from: 33.45->32.85
+Not enough difference no action
+Iteration: 393
+Value changed from: 32.85->33.05
+Not enough difference no action
+Iteration: 394
+Value changed from: 33.05->33.15
+Not enough difference no action
+Iteration: 395
+Value changed from: 33.15->32.5
+Not enough difference no action
+Iteration: 396
+Value changed from: 32.5->33.55
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 397
+Value changed from: 33.55->33.25
+Not enough difference no action
+Iteration: 398
+Value changed from: 33.25->33.85
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 399
+Value changed from: 33.85->33.2
+Not enough difference no action
+Iteration: 400
+Value changed from: 33.2->33.85
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 401
+Value changed from: 33.85->33.35
+Not enough difference no action
+Iteration: 402
+Value changed from: 33.35->33.3
+Not enough difference no action
+Iteration: 403
+Value changed from: 33.3->33.25
+Not enough difference no action
+Iteration: 404
+Value changed from: 33.25->33.25
+Not enough difference no action
+Iteration: 405
+Value changed from: 33.25->33.15
+Not enough difference no action
+Iteration: 406
+Value changed from: 33.15->32.85
+Not enough difference no action
+Iteration: 407
+Value changed from: 32.85->33.05
+Not enough difference no action
+Iteration: 408
+Value changed from: 33.05->33.05
+Not enough difference no action
+Iteration: 409
+Value changed from: 33.05->33.05
+Not enough difference no action
+Iteration: 410
+Value changed from: 33.05->33.05
+Not enough difference no action
+Iteration: 411
+Value changed from: 33.05->32.95
+Not enough difference no action
+Iteration: 412
+Value changed from: 32.95->33.0
+Not enough difference no action
+Iteration: 413
+Value changed from: 33.0->32.5
+Not enough difference no action
+Iteration: 414
+Value changed from: 32.5->32.5
+Not enough difference no action
+Iteration: 415
+Value changed from: 32.5->32.85
+Not enough difference no action
+Iteration: 416
+Value changed from: 32.85->32.95
+Not enough difference no action
+Iteration: 417
+Value changed from: 32.95->32.25
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 418
+Value changed from: 32.25->32.4
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 419
+Value changed from: 32.4->33.0
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 420
+Value changed from: 33.0->32.55
+Not enough difference no action
+Iteration: 421
+Value changed from: 32.55->32.45
+Not enough difference no action
+Iteration: 422
+Value changed from: 32.45->32.35
+Not enough difference no action
+Iteration: 423
+Value changed from: 32.35->32.5
+Not enough difference no action
+Iteration: 424
+Value changed from: 32.5->32.4
+Not enough difference no action
+Iteration: 425
+Value changed from: 32.4->32.55
+Not enough difference no action
+Iteration: 426
+Value changed from: 32.55->32.4
+Not enough difference no action
+Iteration: 427
+Value changed from: 32.4->32.4
+Not enough difference no action
+Iteration: 428
+Value changed from: 32.4->32.4
+Not enough difference no action
+Iteration: 429
+Value changed from: 32.4->32.35
+Not enough difference no action
+Iteration: 430
+Value changed from: 32.35->32.75
+Not enough difference no action
+Iteration: 431
+Value changed from: 32.75->32.6
+Not enough difference no action
+Iteration: 432
+Value changed from: 32.6->32.4
+Not enough difference no action
+Iteration: 433
+Value changed from: 32.4->32.75
+Not enough difference no action
+Iteration: 434
+Value changed from: 32.75->32.65
+Not enough difference no action
+Iteration: 435
+Value changed from: 32.65->32.75
+Not enough difference no action
+Iteration: 436
+Value changed from: 32.75->32.6
+Not enough difference no action
+Iteration: 437
+Value changed from: 32.6->32.6
+Not enough difference no action
+Iteration: 438
+Value changed from: 32.6->32.95
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 439
+Value changed from: 32.95->32.65
+Not enough difference no action
+Iteration: 440
+Value changed from: 32.65->32.5
+Not enough difference no action
+Iteration: 441
+Value changed from: 32.5->32.95
+Not enough difference no action
+Iteration: 442
+Value changed from: 32.95->32.9
+Not enough difference no action
+Iteration: 443
+Value changed from: 32.9->32.9
+Not enough difference no action
+Iteration: 444
+Value changed from: 32.9->32.65
+Not enough difference no action
+Iteration: 445
+Value changed from: 32.65->32.5
+Not enough difference no action
+Iteration: 446
+Value changed from: 32.5->32.6
+Not enough difference no action
+Iteration: 447
+Value changed from: 32.6->32.7
+Not enough difference no action
+Iteration: 448
+Value changed from: 32.7->32.9
+Not enough difference no action
+Iteration: 449
+Value changed from: 32.9->33.15
+Not enough difference no action
+Iteration: 450
+Value changed from: 33.15->32.5
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 451
+Value changed from: 32.5->32.8
+Not enough difference no action
+Iteration: 452
+Value changed from: 32.8->32.4
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 453
+Value changed from: 32.4->32.35
+Not enough difference no action
+Iteration: 454
+Value changed from: 32.35->32.5
+Not enough difference no action
+Iteration: 455
+Value changed from: 32.5->32.25
+Not enough difference no action
+Iteration: 456
+Value changed from: 32.25->32.6
+Not enough difference no action
+Iteration: 457
+Value changed from: 32.6->32.3
+Not enough difference no action
+Iteration: 458
+Value changed from: 32.3->32.5
+Not enough difference no action
+Iteration: 459
+Value changed from: 32.5->32.8
+Not enough difference no action
+Iteration: 460
+Value changed from: 32.8->32.8
+Not enough difference no action
+Iteration: 461
+Value changed from: 32.8->32.9
+Not enough difference no action
+Iteration: 462
+Value changed from: 32.9->32.45
+Not enough difference no action
+Iteration: 463
+Value changed from: 32.45->32.4
+Not enough difference no action
+Iteration: 464
+Value changed from: 32.4->32.75
+Not enough difference no action
+Iteration: 465
+Value changed from: 32.75->32.5
+Not enough difference no action
+Iteration: 466
+Value changed from: 32.5->32.2
+Not enough difference no action
+Iteration: 467
+Value changed from: 32.2->32.65
+Not enough difference no action
+Iteration: 468
+Value changed from: 32.65->32.7
+Not enough difference no action
+Iteration: 469
+Value changed from: 32.7->32.65
+Not enough difference no action
+Iteration: 470
+Value changed from: 32.65->32.65
+Not enough difference no action
+Iteration: 471
+Value changed from: 32.65->32.65
+Not enough difference no action
+Iteration: 472
+Value changed from: 32.65->32.55
+Not enough difference no action
+Iteration: 473
+Value changed from: 32.55->32.7
+Not enough difference no action
+Iteration: 474
+Value changed from: 32.7->32.65
+Not enough difference no action
+Iteration: 475
+Value changed from: 32.65->32.75
+Not enough difference no action
+Iteration: 476
+Value changed from: 32.75->32.85
+Not enough difference no action
+Iteration: 477
+Value changed from: 32.85->32.8
+Not enough difference no action
+Iteration: 478
+Value changed from: 32.8->32.75
+Not enough difference no action
+Iteration: 479
+Value changed from: 32.75->32.9
+Not enough difference no action
+Iteration: 480
+Value changed from: 32.9->32.5
+Not enough difference no action
+Iteration: 481
+Value changed from: 32.5->32.65
+Not enough difference no action
+Iteration: 482
+Value changed from: 32.65->32.7
+Not enough difference no action
+Iteration: 483
+Value changed from: 32.7->32.7
+Not enough difference no action
+Iteration: 484
+Value changed from: 32.7->32.7
+Not enough difference no action
+Iteration: 485
+Value changed from: 32.7->32.5
+Not enough difference no action
+Iteration: 486
+Value changed from: 32.5->32.55
+Not enough difference no action
+Iteration: 487
+Value changed from: 32.55->32.6
+Not enough difference no action
+Iteration: 488
+Value changed from: 32.6->32.5
+Not enough difference no action
+Iteration: 489
+Value changed from: 32.5->32.7
+Not enough difference no action
+Iteration: 490
+Value changed from: 32.7->32.65
+Not enough difference no action
+Iteration: 491
+Value changed from: 32.65->33.0
+Not enough difference no action
+Iteration: 492
+Value changed from: 33.0->32.9
+Not enough difference no action
+Iteration: 493
+Value changed from: 32.9->32.9
+Not enough difference no action
+Iteration: 494
+Value changed from: 32.9->32.9
+Not enough difference no action
+Iteration: 495
+Value changed from: 32.9->32.5
+Not enough difference no action
+Iteration: 496
+Value changed from: 32.5->32.5
+Not enough difference no action
+Iteration: 497
+Value changed from: 32.5->32.6
+Not enough difference no action
+Iteration: 498
+Value changed from: 32.6->32.6
+Not enough difference no action
+Iteration: 499
+Value changed from: 32.6->32.6
+Not enough difference no action
+Iteration: 500
+Value changed from: 32.6->32.55
+Not enough difference no action
+Iteration: 501
+Value changed from: 32.55->31.5
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 502
+Value changed from: 31.5->32.25
+Not enough difference no action
+Iteration: 503
+Value changed from: 32.25->32.5
+Not enough difference no action
+Iteration: 504
+Value changed from: 32.5->32.0
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 505
+Value changed from: 32.0->32.3
+Not enough difference no action
+Iteration: 506
+Value changed from: 32.3->32.45
+Not enough difference no action
+Iteration: 507
+Value changed from: 32.45->32.6
+Not enough difference no action
+Iteration: 508
+Value changed from: 32.6->32.6
+Not enough difference no action
+Iteration: 509
+Value changed from: 32.6->32.4
+Not enough difference no action
+Iteration: 510
+Value changed from: 32.4->32.45
+Not enough difference no action
+Iteration: 511
+Value changed from: 32.45->32.55
+Not enough difference no action
+Iteration: 512
+Value changed from: 32.55->32.5
+Not enough difference no action
+Iteration: 513
+Value changed from: 32.5->32.4
+Not enough difference no action
+Iteration: 514
+Value changed from: 32.4->32.15
+Not enough difference no action
+Iteration: 515
+Value changed from: 32.15->32.3
+Not enough difference no action
+Iteration: 516
+Value changed from: 32.3->32.5
+Not enough difference no action
+Iteration: 517
+Value changed from: 32.5->32.25
+Not enough difference no action
+Iteration: 518
+Value changed from: 32.25->32.3
+Not enough difference no action
+Iteration: 519
+Value changed from: 32.3->32.4
+Not enough difference no action
+Iteration: 520
+Value changed from: 32.4->32.0
+Not enough difference no action
+Iteration: 521
+Value changed from: 32.0->32.0
+Not enough difference no action
+Iteration: 522
+Value changed from: 32.0->32.0
+Not enough difference no action
+Iteration: 523
+Value changed from: 32.0->32.1
+Not enough difference no action
+Iteration: 524
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 525
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 526
+Value changed from: 32.1->32.3
+Not enough difference no action
+Iteration: 527
+Value changed from: 32.3->32.1
+Not enough difference no action
+Iteration: 528
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 529
+Value changed from: 32.1->32.05
+Not enough difference no action
+Iteration: 530
+Value changed from: 32.05->31.95
+Not enough difference no action
+Iteration: 531
+Value changed from: 31.95->31.9
+Not enough difference no action
+Iteration: 532
+Value changed from: 31.9->31.8
+Not enough difference no action
+Iteration: 533
+Value changed from: 31.8->32.0
+Not enough difference no action
+Iteration: 534
+Value changed from: 32.0->31.8
+Not enough difference no action
+Iteration: 535
+Value changed from: 31.8->31.9
+Not enough difference no action
+Iteration: 536
+Value changed from: 31.9->32.1
+Not enough difference no action
+Iteration: 537
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 538
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 539
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 540
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 541
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 542
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 543
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 544
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 545
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 546
+Value changed from: 32.1->32.3
+Not enough difference no action
+Iteration: 547
+Value changed from: 32.3->32.35
+Not enough difference no action
+Iteration: 548
+Value changed from: 32.35->32.1
+Not enough difference no action
+Iteration: 549
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 550
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 551
+Value changed from: 32.1->32.05
+Not enough difference no action
+Iteration: 552
+Value changed from: 32.05->32.15
+Not enough difference no action
+Iteration: 553
+Value changed from: 32.15->32.15
+Not enough difference no action
+Iteration: 554
+Value changed from: 32.15->31.95
+Not enough difference no action
+Iteration: 555
+Value changed from: 31.95->32.0
+Not enough difference no action
+Iteration: 556
+Value changed from: 32.0->32.1
+Not enough difference no action
+Iteration: 557
+Value changed from: 32.1->32.15
+Not enough difference no action
+Iteration: 558
+Value changed from: 32.15->32.15
+Not enough difference no action
+Iteration: 559
+Value changed from: 32.15->32.15
+Not enough difference no action
+Iteration: 560
+Value changed from: 32.15->32.0
+Not enough difference no action
+Iteration: 561
+Value changed from: 32.0->32.0
+Not enough difference no action
+Iteration: 562
+Value changed from: 32.0->32.0
+Not enough difference no action
+Iteration: 563
+Value changed from: 32.0->32.5
+Not enough difference no action
+Iteration: 564
+Value changed from: 32.5->32.05
+Not enough difference no action
+Iteration: 565
+Value changed from: 32.05->32.05
+Not enough difference no action
+Iteration: 566
+Value changed from: 32.05->32.05
+Not enough difference no action
+Iteration: 567
+Value changed from: 32.05->31.9
+Not enough difference no action
+Iteration: 568
+Value changed from: 31.9->31.55
+Not enough difference no action
+Iteration: 569
+Value changed from: 31.55->31.9
+Not enough difference no action
+Iteration: 570
+Value changed from: 31.9->32.05
+Not enough difference no action
+Iteration: 571
+Value changed from: 32.05->31.95
+Not enough difference no action
+Iteration: 572
+Value changed from: 31.95->31.6
+Not enough difference no action
+Iteration: 573
+Value changed from: 31.6->31.55
+Not enough difference no action
+Iteration: 574
+Value changed from: 31.55->31.95
+Not enough difference no action
+Iteration: 575
+Value changed from: 31.95->32.4
+Not enough difference no action
+Iteration: 576
+Value changed from: 32.4->32.1
+Not enough difference no action
+Iteration: 577
+Value changed from: 32.1->32.35
+Not enough difference no action
+Iteration: 578
+Value changed from: 32.35->32.25
+Not enough difference no action
+Iteration: 579
+Value changed from: 32.25->32.0
+Not enough difference no action
+Iteration: 580
+Value changed from: 32.0->32.15
+Not enough difference no action
+Iteration: 581
+Value changed from: 32.15->32.25
+Not enough difference no action
+Iteration: 582
+Value changed from: 32.25->32.55
+Not enough difference no action
+Iteration: 583
+Value changed from: 32.55->32.05
+Not enough difference no action
+Iteration: 584
+Value changed from: 32.05->32.1
+Not enough difference no action
+Iteration: 585
+Value changed from: 32.1->32.05
+Not enough difference no action
+Iteration: 586
+Value changed from: 32.05->32.1
+Not enough difference no action
+Iteration: 587
+Value changed from: 32.1->32.15
+Not enough difference no action
+Iteration: 588
+Value changed from: 32.15->31.5
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 589
+Value changed from: 31.5->32.2
+Not enough difference no action
+Iteration: 590
+Value changed from: 32.2->32.3
+Not enough difference no action
+Iteration: 591
+Value changed from: 32.3->32.3
+Not enough difference no action
+Iteration: 592
+Value changed from: 32.3->32.3
+Not enough difference no action
+Iteration: 593
+Value changed from: 32.3->32.3
+Not enough difference no action
+Iteration: 594
+Value changed from: 32.3->32.3
+Not enough difference no action
+Iteration: 595
+Value changed from: 32.3->31.95
+Not enough difference no action
+Iteration: 596
+Value changed from: 31.95->32.05
+Not enough difference no action
+Iteration: 597
+Value changed from: 32.05->32.05
+Not enough difference no action
+Iteration: 598
+Value changed from: 32.05->32.45
+Not enough difference no action
+Iteration: 599
+Value changed from: 32.45->32.25
+Not enough difference no action
+Iteration: 600
+Value changed from: 32.25->32.05
+Not enough difference no action
+Iteration: 601
+Value changed from: 32.05->31.95
+Not enough difference no action
+Iteration: 602
+Value changed from: 31.95->32.05
+Not enough difference no action
+Iteration: 603
+Value changed from: 32.05->32.05
+Not enough difference no action
+Iteration: 604
+Value changed from: 32.05->32.05
+Not enough difference no action
+Iteration: 605
+Value changed from: 32.05->32.05
+Not enough difference no action
+Iteration: 606
+Value changed from: 32.05->32.1
+Not enough difference no action
+Iteration: 607
+Value changed from: 32.1->32.1
+Not enough difference no action
+Iteration: 608
+Value changed from: 32.1->31.85
+Not enough difference no action
+Iteration: 609
+Value changed from: 31.85->31.85
+Not enough difference no action
+Iteration: 610
+Value changed from: 31.85->31.85
+Not enough difference no action
+Iteration: 611
+Value changed from: 31.85->32.15
+Not enough difference no action
+Iteration: 612
+Value changed from: 32.15->32.15
+Not enough difference no action
+Iteration: 613
+Value changed from: 32.15->32.1
+Not enough difference no action
+Iteration: 614
+Value changed from: 32.1->32.0
+Not enough difference no action
+Iteration: 615
+Value changed from: 32.0->32.0
+Not enough difference no action
+Iteration: 616
+Value changed from: 32.0->31.95
+Not enough difference no action
+Iteration: 617
+Value changed from: 31.95->31.8
+Not enough difference no action
+Iteration: 618
+Value changed from: 31.8->31.75
+Not enough difference no action
+Iteration: 619
+Value changed from: 31.75->31.75
+Not enough difference no action
+Iteration: 620
+Value changed from: 31.75->31.75
+Not enough difference no action
+Iteration: 621
+Value changed from: 31.75->31.9
+Not enough difference no action
+Iteration: 622
+Value changed from: 31.9->31.85
+Not enough difference no action
+Iteration: 623
+Value changed from: 31.85->31.8
+Not enough difference no action
+Iteration: 624
+Value changed from: 31.8->31.8
+Not enough difference no action
+Iteration: 625
+Value changed from: 31.8->31.8
+Not enough difference no action
+Iteration: 626
+Value changed from: 31.8->31.4
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 627
+Value changed from: 31.4->32.25
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 628
+Value changed from: 32.25->32.1
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 629
+Value changed from: 32.1->32.05
+Not enough difference no action
+Iteration: 630
+Value changed from: 32.05->31.9
+Not enough difference no action
+Iteration: 631
+Value changed from: 31.9->31.75
+Not enough difference no action
+Iteration: 632
+Value changed from: 31.75->32.1
+Not enough difference no action
+Iteration: 633
+Value changed from: 32.1->31.85
+Not enough difference no action
+Iteration: 634
+Value changed from: 31.85->32.0
+Not enough difference no action
+Iteration: 635
+Value changed from: 32.0->31.85
+Not enough difference no action
+Iteration: 636
+Value changed from: 31.85->32.0
+Not enough difference no action
+Iteration: 637
+Value changed from: 32.0->32.0
+Not enough difference no action
+Iteration: 638
+Value changed from: 32.0->32.15
+Not enough difference no action
+Iteration: 639
+Value changed from: 32.15->32.15
+Not enough difference no action
+Iteration: 640
+Value changed from: 32.15->32.05
+Not enough difference no action
+Iteration: 641
+Value changed from: 32.05->32.0
+Not enough difference no action
+Iteration: 642
+Value changed from: 32.0->31.9
+Not enough difference no action
+Iteration: 643
+Value changed from: 31.9->31.9
+Not enough difference no action
+Iteration: 644
+Value changed from: 31.9->32.15
+Not enough difference no action
+Iteration: 645
+Value changed from: 32.15->32.25
+Not enough difference no action
+Iteration: 646
+Value changed from: 32.25->31.85
+Not enough difference no action
+Iteration: 647
+Value changed from: 31.85->31.85
+Not enough difference no action
+Iteration: 648
+Value changed from: 31.85->31.6
+Not enough difference no action
+Iteration: 649
+Value changed from: 31.6->31.95
+Not enough difference no action
+Iteration: 650
+Value changed from: 31.95->31.8
+Not enough difference no action
+Iteration: 651
+Value changed from: 31.8->32.05
+Not enough difference no action
+Iteration: 652
+Value changed from: 32.05->32.05
+Not enough difference no action
+Iteration: 653
+Value changed from: 32.05->32.1
+Not enough difference no action
+Iteration: 654
+Value changed from: 32.1->31.75
+Not enough difference no action
+Iteration: 655
+Value changed from: 31.75->31.95
+Not enough difference no action
+Iteration: 656
+Value changed from: 31.95->32.1
+Not enough difference no action
+Iteration: 657
+Value changed from: 32.1->32.0
+Not enough difference no action
+Iteration: 658
+Value changed from: 32.0->31.8
+Not enough difference no action
+Iteration: 659
+Value changed from: 31.8->32.2
+Not enough difference no action
+Iteration: 660
+Value changed from: 32.2->31.75
+Not enough difference no action
+Iteration: 661
+Value changed from: 31.75->31.75
+Not enough difference no action
+Iteration: 662
+Value changed from: 31.75->31.7
+Not enough difference no action
+Iteration: 663
+Value changed from: 31.7->32.0
+Not enough difference no action
+Iteration: 664
+Value changed from: 32.0->32.0
+Not enough difference no action
+Iteration: 665
+Value changed from: 32.0->32.15
+Not enough difference no action
+Iteration: 666
+Value changed from: 32.15->31.75
+Not enough difference no action
+Iteration: 667
+Value changed from: 31.75->31.9
+Not enough difference no action
+Iteration: 668
+Value changed from: 31.9->31.6
+Not enough difference no action
+Iteration: 669
+Value changed from: 31.6->31.55
+Not enough difference no action
+Iteration: 670
+Value changed from: 31.55->31.7
+Not enough difference no action
+Iteration: 671
+Value changed from: 31.7->31.7
+Not enough difference no action
+Iteration: 672
+Value changed from: 31.7->31.6
+Not enough difference no action
+Iteration: 673
+Value changed from: 31.6->31.6
+Not enough difference no action
+Iteration: 674
+Value changed from: 31.6->31.45
+Not enough difference no action
+Iteration: 675
+Value changed from: 31.45->31.55
+Not enough difference no action
+Iteration: 676
+Value changed from: 31.55->31.65
+Not enough difference no action
+Iteration: 677
+Value changed from: 31.65->31.5
+Not enough difference no action
+Iteration: 678
+Value changed from: 31.5->31.5
+Not enough difference no action
+Iteration: 679
+Value changed from: 31.5->31.5
+Not enough difference no action
+Iteration: 680
+Value changed from: 31.5->31.5
+Not enough difference no action
+Iteration: 681
+Value changed from: 31.5->31.15
+Not enough difference no action
+Iteration: 682
+Value changed from: 31.15->31.55
+Not enough difference no action
+Iteration: 683
+Value changed from: 31.55->31.05
+Not enough difference no action
+Iteration: 684
+Value changed from: 31.05->31.2
+Not enough difference no action
+Iteration: 685
+Value changed from: 31.2->31.3
+Not enough difference no action
+Iteration: 686
+Value changed from: 31.3->31.75
+Not enough difference no action
+Iteration: 687
+Value changed from: 31.75->31.0
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 688
+Value changed from: 31.0->30.85
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 689
+Value changed from: 30.85->30.95
+Not enough difference no action
+Iteration: 690
+Value changed from: 30.95->30.7
+Not enough difference no action
+Iteration: 691
+Value changed from: 30.7->30.0
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 692
+Value changed from: 30.0->30.3
+Not enough difference no action
+Iteration: 693
+Value changed from: 30.3->30.9
+Not enough difference no action
+Iteration: 694
+Value changed from: 30.9->31.4
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 695
+Value changed from: 31.4->31.15
+Not enough difference no action
+Iteration: 696
+Value changed from: 31.15->31.15
+Not enough difference no action
+Iteration: 697
+Value changed from: 31.15->31.15
+Not enough difference no action
+Iteration: 698
+Value changed from: 31.15->31.4
+Not enough difference no action
+Iteration: 699
+Value changed from: 31.4->31.4
+Not enough difference no action
+Iteration: 700
+Value changed from: 31.4->31.4
+Not enough difference no action
+Iteration: 701
+Value changed from: 31.4->31.35
+Not enough difference no action
+Iteration: 702
+Value changed from: 31.35->31.35
+Not enough difference no action
+Iteration: 703
+Value changed from: 31.35->31.4
+Not enough difference no action
+Iteration: 704
+Value changed from: 31.4->31.3
+Not enough difference no action
+Iteration: 705
+Value changed from: 31.3->31.3
+Not enough difference no action
+Iteration: 706
+Value changed from: 31.3->31.1
+Not enough difference no action
+Iteration: 707
+Value changed from: 31.1->31.2
+Not enough difference no action
+Iteration: 708
+Value changed from: 31.2->31.3
+Not enough difference no action
+Iteration: 709
+Value changed from: 31.3->31.3
+Not enough difference no action
+Iteration: 710
+Value changed from: 31.3->31.0
+Not enough difference no action
+Iteration: 711
+Value changed from: 31.0->31.0
+Not enough difference no action
+Iteration: 712
+Value changed from: 31.0->31.0
+Not enough difference no action
+Iteration: 713
+Value changed from: 31.0->31.0
+Not enough difference no action
+Iteration: 714
+Value changed from: 31.0->30.95
+Not enough difference no action
+Iteration: 715
+Value changed from: 30.95->30.8
+Not enough difference no action
+Iteration: 716
+Value changed from: 30.8->30.75
+Not enough difference no action
+Iteration: 717
+Value changed from: 30.75->30.8
+Not enough difference no action
+Iteration: 718
+Value changed from: 30.8->30.8
+Not enough difference no action
+Iteration: 719
+Value changed from: 30.8->31.15
+Not enough difference no action
+Iteration: 720
+Value changed from: 31.15->31.0
+Not enough difference no action
+Iteration: 721
+Value changed from: 31.0->31.0
+Not enough difference no action
+Iteration: 722
+Value changed from: 31.0->30.85
+Not enough difference no action
+Iteration: 723
+Value changed from: 30.85->30.8
+Not enough difference no action
+Iteration: 724
+Value changed from: 30.8->31.2
+Not enough difference no action
+Iteration: 725
+Value changed from: 31.2->31.25
+Not enough difference no action
+Iteration: 726
+Value changed from: 31.25->31.15
+Not enough difference no action
+Iteration: 727
+Value changed from: 31.15->31.15
+Not enough difference no action
+Iteration: 728
+Value changed from: 31.15->31.0
+Not enough difference no action
+Iteration: 729
+Value changed from: 31.0->30.95
+Not enough difference no action
+Iteration: 730
+Value changed from: 30.95->30.95
+Not enough difference no action
+Iteration: 731
+Value changed from: 30.95->30.95
+Not enough difference no action
+Iteration: 732
+Value changed from: 30.95->31.0
+Not enough difference no action
+Iteration: 733
+Value changed from: 31.0->31.1
+Not enough difference no action
+Iteration: 734
+Value changed from: 31.1->31.1
+Not enough difference no action
+Iteration: 735
+Value changed from: 31.1->31.0
+Not enough difference no action
+Iteration: 736
+Value changed from: 31.0->31.2
+Not enough difference no action
+Iteration: 737
+Value changed from: 31.2->31.2
+Not enough difference no action
+Iteration: 738
+Value changed from: 31.2->31.55
+Not enough difference no action
+Iteration: 739
+Value changed from: 31.55->31.3
+Not enough difference no action
+Iteration: 740
+Value changed from: 31.3->31.05
+Not enough difference no action
+Iteration: 741
+Value changed from: 31.05->31.1
+Not enough difference no action
+Iteration: 742
+Value changed from: 31.1->30.95
+Not enough difference no action
+Iteration: 743
+Value changed from: 30.95->30.95
+Not enough difference no action
+Iteration: 744
+Value changed from: 30.95->31.05
+Not enough difference no action
+Iteration: 745
+Value changed from: 31.05->31.1
+Not enough difference no action
+Iteration: 746
+Value changed from: 31.1->31.1
+Not enough difference no action
+Iteration: 747
+Value changed from: 31.1->30.9
+Not enough difference no action
+Iteration: 748
+Value changed from: 30.9->30.8
+Not enough difference no action
+Iteration: 749
+Value changed from: 30.8->31.0
+Not enough difference no action
+Iteration: 750
+Value changed from: 31.0->30.9
+Not enough difference no action
+Iteration: 751
+Value changed from: 30.9->30.85
+Not enough difference no action
+Iteration: 752
+Value changed from: 30.85->30.65
+Not enough difference no action
+Iteration: 753
+Value changed from: 30.65->30.45
+Not enough difference no action
+Iteration: 754
+Value changed from: 30.45->30.45
+Not enough difference no action
+Iteration: 755
+Value changed from: 30.45->27.8
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 756
+Value changed from: 27.8->30.9
+Not enough difference no action
+Iteration: 757
+Value changed from: 30.9->30.0
+Not enough difference no action
+Iteration: 758
+Value changed from: 30.0->29.55
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 759
+Value changed from: 29.55->29.15
+Not enough difference no action
+Iteration: 760
+Value changed from: 29.15->31.25
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 761
+Value changed from: 31.25->30.35
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 762
+Value changed from: 30.35->30.3
+Not enough difference no action
+Iteration: 763
+Value changed from: 30.3->30.2
+Not enough difference no action
+Iteration: 764
+Value changed from: 30.2->30.7
+Not enough difference no action
+Iteration: 765
+Value changed from: 30.7->30.95
+Not enough difference no action
+Iteration: 766
+Value changed from: 30.95->31.15
+Not enough difference no action
+Iteration: 767
+Value changed from: 31.15->30.2
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 768
+Value changed from: 30.2->30.95
+Not enough difference no action
+Iteration: 769
+Value changed from: 30.95->30.75
+Not enough difference no action
+Iteration: 770
+Value changed from: 30.75->31.0
+Not enough difference no action
+Iteration: 771
+Value changed from: 31.0->31.0
+Not enough difference no action
+Iteration: 772
+Value changed from: 31.0->30.85
+Not enough difference no action
+Iteration: 773
+Value changed from: 30.85->30.9
+Not enough difference no action
+Iteration: 774
+Value changed from: 30.9->30.85
+Not enough difference no action
+Iteration: 775
+Value changed from: 30.85->31.1
+Not enough difference no action
+Iteration: 776
+Value changed from: 31.1->31.3
+Not enough difference no action
+Iteration: 777
+Value changed from: 31.3->31.1
+Not enough difference no action
+Iteration: 778
+Value changed from: 31.1->31.05
+Not enough difference no action
+Iteration: 779
+Value changed from: 31.05->31.15
+Not enough difference no action
+Iteration: 780
+Value changed from: 31.15->31.35
+Not enough difference no action
+Iteration: 781
+Value changed from: 31.35->31.15
+Not enough difference no action
+Iteration: 782
+Value changed from: 31.15->31.15
+Not enough difference no action
+Iteration: 783
+Value changed from: 31.15->30.75
+Not enough difference no action
+Iteration: 784
+Value changed from: 30.75->31.7
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 785
+Value changed from: 31.7->30.35
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 786
+Value changed from: 30.35->30.45
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 787
+Value changed from: 30.45->30.25
+Not enough difference no action
+Iteration: 788
+Value changed from: 30.25->30.45
+Not enough difference no action
+Iteration: 789
+Value changed from: 30.45->30.2
+Not enough difference no action
+Iteration: 790
+Value changed from: 30.2->30.8
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 791
+Value changed from: 30.8->30.4
+Not enough difference no action
+Iteration: 792
+Value changed from: 30.4->30.05
+Not enough difference no action
+Iteration: 793
+Value changed from: 30.05->30.4
+Not enough difference no action
+Iteration: 794
+Value changed from: 30.4->30.35
+Not enough difference no action
+Iteration: 795
+Value changed from: 30.35->30.45
+Not enough difference no action
+Iteration: 796
+Value changed from: 30.45->30.15
+Not enough difference no action
+Iteration: 797
+Value changed from: 30.15->30.25
+Not enough difference no action
+Iteration: 798
+Value changed from: 30.25->30.6
+Not enough difference no action
+Iteration: 799
+Value changed from: 30.6->30.4
+Not enough difference no action
+Iteration: 800
+Value changed from: 30.4->30.2
+Not enough difference no action
+Iteration: 801
+Value changed from: 30.2->30.45
+Not enough difference no action
+Iteration: 802
+Value changed from: 30.45->30.65
+Not enough difference no action
+Iteration: 803
+Value changed from: 30.65->30.65
+Not enough difference no action
+Iteration: 804
+Value changed from: 30.65->30.75
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 805
+Value changed from: 30.75->30.7
+Not enough difference no action
+Iteration: 806
+Value changed from: 30.7->30.6
+Not enough difference no action
+Iteration: 807
+Value changed from: 30.6->30.45
+Not enough difference no action
+Iteration: 808
+Value changed from: 30.45->30.45
+Not enough difference no action
+Iteration: 809
+Value changed from: 30.45->30.1
+Not enough difference no action
+Iteration: 810
+Value changed from: 30.1->30.7
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 811
+Value changed from: 30.7->30.7
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 812
+Value changed from: 30.7->30.3
+Not enough difference no action
+Iteration: 813
+Value changed from: 30.3->30.4
+Not enough difference no action
+Iteration: 814
+Value changed from: 30.4->30.4
+Not enough difference no action
+Iteration: 815
+Value changed from: 30.4->30.2
+Not enough difference no action
+Iteration: 816
+Value changed from: 30.2->30.2
+Not enough difference no action
+Iteration: 817
+Value changed from: 30.2->30.6
+Not enough difference no action
+Iteration: 818
+Value changed from: 30.6->30.35
+Not enough difference no action
+Iteration: 819
+Value changed from: 30.35->31.4
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 820
+Value changed from: 31.4->30.8
+Not enough difference no action
+Iteration: 821
+Value changed from: 30.8->30.5
+Not enough difference no action
+Iteration: 822
+Value changed from: 30.5->30.35
+Not enough difference no action
+Iteration: 823
+Value changed from: 30.35->30.3
+Not enough difference no action
+Iteration: 824
+Value changed from: 30.3->30.4
+Not enough difference no action
+Iteration: 825
+Value changed from: 30.4->30.2
+Not enough difference no action
+Iteration: 826
+Value changed from: 30.2->30.6
+Not enough difference no action
+Iteration: 827
+Value changed from: 30.6->30.85
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 828
+Value changed from: 30.85->31.1
+Not enough difference no action
+Iteration: 829
+Value changed from: 31.1->31.0
+Not enough difference no action
+Iteration: 830
+Value changed from: 31.0->30.4
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 831
+Value changed from: 30.4->30.7
+Not enough difference no action
+Iteration: 832
+Value changed from: 30.7->30.5
+Not enough difference no action
+Iteration: 833
+Value changed from: 30.5->30.55
+Not enough difference no action
+Iteration: 834
+Value changed from: 30.55->30.7
+Not enough difference no action
+Iteration: 835
+Value changed from: 30.7->30.65
+Not enough difference no action
+Iteration: 836
+Value changed from: 30.65->30.9
+Not enough difference no action
+Iteration: 837
+Value changed from: 30.9->30.7
+Not enough difference no action
+Iteration: 838
+Value changed from: 30.7->30.75
+Not enough difference no action
+Iteration: 839
+Value changed from: 30.75->30.4
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 840
+Value changed from: 30.4->30.65
+Not enough difference no action
+Iteration: 841
+Value changed from: 30.65->30.5
+Not enough difference no action
+Iteration: 842
+Value changed from: 30.5->30.5
+Not enough difference no action
+Iteration: 843
+Value changed from: 30.5->30.3
+Not enough difference no action
+Iteration: 844
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 845
+Value changed from: 30.3->30.45
+Not enough difference no action
+Iteration: 846
+Value changed from: 30.45->30.7
+Not enough difference no action
+Iteration: 847
+Value changed from: 30.7->30.55
+Not enough difference no action
+Iteration: 848
+Value changed from: 30.55->30.6
+Not enough difference no action
+Iteration: 849
+Value changed from: 30.6->30.65
+Not enough difference no action
+Iteration: 850
+Value changed from: 30.65->30.75
+Not enough difference no action
+Iteration: 851
+Value changed from: 30.75->30.75
+Not enough difference no action
+Iteration: 852
+Value changed from: 30.75->30.75
+Not enough difference no action
+Iteration: 853
+Value changed from: 30.75->30.35
+Not enough difference no action
+Iteration: 854
+Value changed from: 30.35->30.35
+Not enough difference no action
+Iteration: 855
+Value changed from: 30.35->30.55
+Not enough difference no action
+Iteration: 856
+Value changed from: 30.55->30.55
+Not enough difference no action
+Iteration: 857
+Value changed from: 30.55->30.65
+Not enough difference no action
+Iteration: 858
+Value changed from: 30.65->30.65
+Not enough difference no action
+Iteration: 859
+Value changed from: 30.65->30.65
+Not enough difference no action
+Iteration: 860
+Value changed from: 30.65->30.5
+Not enough difference no action
+Iteration: 861
+Value changed from: 30.5->30.25
+Not enough difference no action
+Iteration: 862
+Value changed from: 30.25->30.2
+Not enough difference no action
+Iteration: 863
+Value changed from: 30.2->30.2
+Not enough difference no action
+Iteration: 864
+Value changed from: 30.2->30.2
+Not enough difference no action
+Iteration: 865
+Value changed from: 30.2->30.4
+Not enough difference no action
+Iteration: 866
+Value changed from: 30.4->30.4
+Not enough difference no action
+Iteration: 867
+Value changed from: 30.4->30.4
+Not enough difference no action
+Iteration: 868
+Value changed from: 30.4->30.3
+Not enough difference no action
+Iteration: 869
+Value changed from: 30.3->30.25
+Not enough difference no action
+Iteration: 870
+Value changed from: 30.25->30.25
+Not enough difference no action
+Iteration: 871
+Value changed from: 30.25->30.2
+Not enough difference no action
+Iteration: 872
+Value changed from: 30.2->30.3
+Not enough difference no action
+Iteration: 873
+Value changed from: 30.3->30.2
+Not enough difference no action
+Iteration: 874
+Value changed from: 30.2->30.2
+Not enough difference no action
+Iteration: 875
+Value changed from: 30.2->30.25
+Not enough difference no action
+Iteration: 876
+Value changed from: 30.25->30.25
+Not enough difference no action
+Iteration: 877
+Value changed from: 30.25->30.25
+Not enough difference no action
+Iteration: 878
+Value changed from: 30.25->30.3
+Not enough difference no action
+Iteration: 879
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 880
+Value changed from: 30.3->30.15
+Not enough difference no action
+Iteration: 881
+Value changed from: 30.15->30.15
+Not enough difference no action
+Iteration: 882
+Value changed from: 30.15->30.05
+Not enough difference no action
+Iteration: 883
+Value changed from: 30.05->30.05
+Not enough difference no action
+Iteration: 884
+Value changed from: 30.05->30.05
+Not enough difference no action
+Iteration: 885
+Value changed from: 30.05->30.2
+Not enough difference no action
+Iteration: 886
+Value changed from: 30.2->30.2
+Not enough difference no action
+Iteration: 887
+Value changed from: 30.2->30.05
+Not enough difference no action
+Iteration: 888
+Value changed from: 30.05->30.25
+Not enough difference no action
+Iteration: 889
+Value changed from: 30.25->30.55
+Not enough difference no action
+Iteration: 890
+Value changed from: 30.55->30.55
+Not enough difference no action
+Iteration: 891
+Value changed from: 30.55->30.55
+Not enough difference no action
+Iteration: 892
+Value changed from: 30.55->30.4
+Not enough difference no action
+Iteration: 893
+Value changed from: 30.4->30.3
+Not enough difference no action
+Iteration: 894
+Value changed from: 30.3->30.25
+Not enough difference no action
+Iteration: 895
+Value changed from: 30.25->30.25
+Not enough difference no action
+Iteration: 896
+Value changed from: 30.25->30.45
+Not enough difference no action
+Iteration: 897
+Value changed from: 30.45->30.6
+Not enough difference no action
+Iteration: 898
+Value changed from: 30.6->30.5
+Not enough difference no action
+Iteration: 899
+Value changed from: 30.5->30.5
+Not enough difference no action
+Iteration: 900
+Value changed from: 30.5->30.6
+Not enough difference no action
+Iteration: 901
+Value changed from: 30.6->30.75
+Not enough difference no action
+Iteration: 902
+Value changed from: 30.75->30.75
+Not enough difference no action
+Iteration: 903
+Value changed from: 30.75->30.65
+Not enough difference no action
+Iteration: 904
+Value changed from: 30.65->30.75
+Not enough difference no action
+Iteration: 905
+Value changed from: 30.75->30.35
+Not enough difference no action
+Iteration: 906
+Value changed from: 30.35->30.9
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 907
+Value changed from: 30.9->30.75
+Not enough difference no action
+Iteration: 908
+Value changed from: 30.75->30.75
+Not enough difference no action
+Iteration: 909
+Value changed from: 30.75->30.75
+Not enough difference no action
+Iteration: 910
+Value changed from: 30.75->30.65
+Not enough difference no action
+Iteration: 911
+Value changed from: 30.65->30.65
+Not enough difference no action
+Iteration: 912
+Value changed from: 30.65->30.65
+Not enough difference no action
+Iteration: 913
+Value changed from: 30.65->30.7
+Not enough difference no action
+Iteration: 914
+Value changed from: 30.7->30.7
+Not enough difference no action
+Iteration: 915
+Value changed from: 30.7->30.45
+Not enough difference no action
+Iteration: 916
+Value changed from: 30.45->30.3
+Not enough difference no action
+Iteration: 917
+Value changed from: 30.3->30.5
+Not enough difference no action
+Iteration: 918
+Value changed from: 30.5->30.45
+Not enough difference no action
+Iteration: 919
+Value changed from: 30.45->30.4
+Not enough difference no action
+Iteration: 920
+Value changed from: 30.4->30.4
+Not enough difference no action
+Iteration: 921
+Value changed from: 30.4->30.4
+Not enough difference no action
+Iteration: 922
+Value changed from: 30.4->30.5
+Not enough difference no action
+Iteration: 923
+Value changed from: 30.5->30.75
+Not enough difference no action
+Iteration: 924
+Value changed from: 30.75->31.0
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 925
+Value changed from: 31.0->31.15
+Not enough difference no action
+Iteration: 926
+Value changed from: 31.15->31.0
+Not enough difference no action
+Iteration: 927
+Value changed from: 31.0->30.8
+Not enough difference no action
+Iteration: 928
+Value changed from: 30.8->30.75
+Not enough difference no action
+Iteration: 929
+Value changed from: 30.75->30.8
+Not enough difference no action
+Iteration: 930
+Value changed from: 30.8->30.8
+Not enough difference no action
+Iteration: 931
+Value changed from: 30.8->30.7
+Not enough difference no action
+Iteration: 932
+Value changed from: 30.7->30.6
+Not enough difference no action
+Iteration: 933
+Value changed from: 30.6->30.6
+Not enough difference no action
+Iteration: 934
+Value changed from: 30.6->31.0
+Not enough difference no action
+Iteration: 935
+Value changed from: 31.0->31.0
+Not enough difference no action
+Iteration: 936
+Value changed from: 31.0->31.0
+Not enough difference no action
+Iteration: 937
+Value changed from: 31.0->31.0
+Not enough difference no action
+Iteration: 938
+Value changed from: 31.0->30.5
+Not enough difference no action
+Iteration: 939
+Value changed from: 30.5->29.85
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 940
+Value changed from: 29.85->30.15
+Not enough difference no action
+Iteration: 941
+Value changed from: 30.15->30.4
+Not enough difference no action
+Iteration: 942
+Value changed from: 30.4->30.3
+Not enough difference no action
+Iteration: 943
+Value changed from: 30.3->30.15
+Not enough difference no action
+Iteration: 944
+Value changed from: 30.15->30.1
+Not enough difference no action
+Iteration: 945
+Value changed from: 30.1->30.2
+Not enough difference no action
+Iteration: 946
+Value changed from: 30.2->29.55
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 947
+Value changed from: 29.55->29.7
+Not enough difference no action
+Iteration: 948
+Value changed from: 29.7->30.55
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 949
+Value changed from: 30.55->30.3
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 950
+Value changed from: 30.3->30.15
+Not enough difference no action
+Iteration: 951
+Value changed from: 30.15->30.3
+Not enough difference no action
+Iteration: 952
+Value changed from: 30.3->30.2
+Not enough difference no action
+Iteration: 953
+Value changed from: 30.2->30.2
+Not enough difference no action
+Iteration: 954
+Value changed from: 30.2->29.6
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 955
+Value changed from: 29.6->30.35
+Not enough difference no action
+Iteration: 956
+Value changed from: 30.35->31.0
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 957
+Value changed from: 31.0->31.1
+Not enough difference no action
+Iteration: 958
+Value changed from: 31.1->30.8
+Not enough difference no action
+Iteration: 959
+Value changed from: 30.8->30.75
+Not enough difference no action
+Iteration: 960
+Value changed from: 30.75->30.9
+Not enough difference no action
+Iteration: 961
+Value changed from: 30.9->31.2
+Not enough difference no action
+Iteration: 962
+Value changed from: 31.2->31.0
+Not enough difference no action
+Iteration: 963
+Value changed from: 31.0->31.05
+Not enough difference no action
+Iteration: 964
+Value changed from: 31.05->30.85
+Not enough difference no action
+Iteration: 965
+Value changed from: 30.85->30.85
+Not enough difference no action
+Iteration: 966
+Value changed from: 30.85->30.8
+Not enough difference no action
+Iteration: 967
+Value changed from: 30.8->30.75
+Not enough difference no action
+Iteration: 968
+Value changed from: 30.75->30.65
+Not enough difference no action
+Iteration: 969
+Value changed from: 30.65->30.75
+Not enough difference no action
+Iteration: 970
+Value changed from: 30.75->30.6
+Not enough difference no action
+Iteration: 971
+Value changed from: 30.6->30.5
+Not enough difference no action
+Iteration: 972
+Value changed from: 30.5->30.8
+Not enough difference no action
+Iteration: 973
+Value changed from: 30.8->31.05
+Not enough difference no action
+Iteration: 974
+Value changed from: 31.05->31.05
+Not enough difference no action
+Iteration: 975
+Value changed from: 31.05->31.3
+Not enough difference no action
+Iteration: 976
+Value changed from: 31.3->31.3
+Not enough difference no action
+Iteration: 977
+Value changed from: 31.3->31.15
+Not enough difference no action
+Iteration: 978
+Value changed from: 31.15->31.0
+Not enough difference no action
+Iteration: 979
+Value changed from: 31.0->31.05
+Not enough difference no action
+Iteration: 980
+Value changed from: 31.05->31.25
+Not enough difference no action
+Iteration: 981
+Value changed from: 31.25->31.25
+Not enough difference no action
+Iteration: 982
+Value changed from: 31.25->30.95
+Not enough difference no action
+Iteration: 983
+Value changed from: 30.95->30.8
+Not enough difference no action
+Iteration: 984
+Value changed from: 30.8->30.3
+Not enough difference no action
+Iteration: 985
+Value changed from: 30.3->31.65
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 986
+Value changed from: 31.65->31.3
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 987
+Value changed from: 31.3->30.95
+Not enough difference no action
+Iteration: 988
+Value changed from: 30.95->31.85
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 989
+Value changed from: 31.85->31.7
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 990
+Value changed from: 31.7->31.9
+Not enough difference no action
+Iteration: 991
+Value changed from: 31.9->31.9
+Not enough difference no action
+Iteration: 992
+Value changed from: 31.9->31.75
+Not enough difference no action
+Iteration: 993
+Value changed from: 31.75->32.0
+Not enough difference no action
+Iteration: 994
+Value changed from: 32.0->31.5
+Not enough difference no action
+Iteration: 995
+Value changed from: 31.5->31.3
+Not enough difference no action
+Iteration: 996
+Value changed from: 31.3->31.3
+Not enough difference no action
+Iteration: 997
+Value changed from: 31.3->31.25
+Not enough difference no action
+Iteration: 998
+Value changed from: 31.25->31.2
+Not enough difference no action
+Iteration: 999
+Value changed from: 31.2->31.2
+Not enough difference no action
+Iteration: 1000
+Value changed from: 31.2->31.2
+Not enough difference no action
+Iteration: 1001
+Value changed from: 31.2->30.95
+Not enough difference no action
+Iteration: 1002
+Value changed from: 30.95->31.0
+Not enough difference no action
+Iteration: 1003
+Value changed from: 31.0->31.5
+Not enough difference no action
+Iteration: 1004
+Value changed from: 31.5->31.85
+Not enough difference no action
+Iteration: 1005
+Value changed from: 31.85->30.95
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 1006
+Value changed from: 30.95->30.8
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 1007
+Value changed from: 30.8->30.85
+Not enough difference no action
+Iteration: 1008
+Value changed from: 30.85->30.7
+Not enough difference no action
+Iteration: 1009
+Value changed from: 30.7->30.8
+Not enough difference no action
+Iteration: 1010
+Value changed from: 30.8->31.05
+Not enough difference no action
+Iteration: 1011
+Value changed from: 31.05->31.05
+Not enough difference no action
+Iteration: 1012
+Value changed from: 31.05->31.05
+Not enough difference no action
+Iteration: 1013
+Value changed from: 31.05->30.95
+Not enough difference no action
+Iteration: 1014
+Value changed from: 30.95->31.0
+Not enough difference no action
+Iteration: 1015
+Value changed from: 31.0->30.75
+Not enough difference no action
+Iteration: 1016
+Value changed from: 30.75->30.75
+Not enough difference no action
+Iteration: 1017
+Value changed from: 30.75->30.65
+Not enough difference no action
+Iteration: 1018
+Value changed from: 30.65->30.7
+Not enough difference no action
+Iteration: 1019
+Value changed from: 30.7->30.7
+Not enough difference no action
+Iteration: 1020
+Value changed from: 30.7->30.7
+Not enough difference no action
+Iteration: 1021
+Value changed from: 30.7->30.8
+Not enough difference no action
+Iteration: 1022
+Value changed from: 30.8->30.8
+Not enough difference no action
+Iteration: 1023
+Value changed from: 30.8->30.8
+Not enough difference no action
+Iteration: 1024
+Value changed from: 30.8->30.75
+Not enough difference no action
+Iteration: 1025
+Value changed from: 30.75->30.7
+Not enough difference no action
+Iteration: 1026
+Value changed from: 30.7->30.8
+Not enough difference no action
+Iteration: 1027
+Value changed from: 30.8->30.8
+Not enough difference no action
+Iteration: 1028
+Value changed from: 30.8->30.7
+Not enough difference no action
+Iteration: 1029
+Value changed from: 30.7->30.45
+Not enough difference no action
+Iteration: 1030
+Value changed from: 30.45->31.25
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 1031
+Value changed from: 31.25->31.1
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 1032
+Value changed from: 31.1->31.1
+Not enough difference no action
+Iteration: 1033
+Value changed from: 31.1->31.1
+Not enough difference no action
+Iteration: 1034
+Value changed from: 31.1->30.95
+Not enough difference no action
+Iteration: 1035
+Value changed from: 30.95->30.95
+Not enough difference no action
+Iteration: 1036
+Value changed from: 30.95->30.9
+Not enough difference no action
+Iteration: 1037
+Value changed from: 30.9->30.9
+Not enough difference no action
+Iteration: 1038
+Value changed from: 30.9->30.9
+Not enough difference no action
+Iteration: 1039
+Value changed from: 30.9->30.9
+Not enough difference no action
+Iteration: 1040
+Value changed from: 30.9->30.9
+Not enough difference no action
+Iteration: 1041
+Value changed from: 30.9->31.15
+Not enough difference no action
+Iteration: 1042
+Value changed from: 31.15->31.1
+Not enough difference no action
+Iteration: 1043
+Value changed from: 31.1->31.15
+Not enough difference no action
+Iteration: 1044
+Value changed from: 31.15->31.15
+Not enough difference no action
+Iteration: 1045
+Value changed from: 31.15->31.05
+Not enough difference no action
+Iteration: 1046
+Value changed from: 31.05->30.95
+Not enough difference no action
+Iteration: 1047
+Value changed from: 30.95->30.95
+Not enough difference no action
+Iteration: 1048
+Value changed from: 30.95->30.95
+Not enough difference no action
+Iteration: 1049
+Value changed from: 30.95->31.2
+Not enough difference no action
+Iteration: 1050
+Value changed from: 31.2->31.1
+Not enough difference no action
+Iteration: 1051
+Value changed from: 31.1->31.1
+Not enough difference no action
+Iteration: 1052
+Value changed from: 31.1->31.3
+Not enough difference no action
+Iteration: 1053
+Value changed from: 31.3->31.25
+Not enough difference no action
+Iteration: 1054
+Value changed from: 31.25->30.8
+Not enough difference no action
+Iteration: 1055
+Value changed from: 30.8->30.7
+Not enough difference no action
+Iteration: 1056
+Value changed from: 30.7->31.05
+Not enough difference no action
+Iteration: 1057
+Value changed from: 31.05->31.05
+Not enough difference no action
+Iteration: 1058
+Value changed from: 31.05->31.05
+Not enough difference no action
+Iteration: 1059
+Value changed from: 31.05->31.05
+Not enough difference no action
+Iteration: 1060
+Value changed from: 31.05->31.05
+Not enough difference no action
+Iteration: 1061
+Value changed from: 31.05->31.05
+Not enough difference no action
+Iteration: 1062
+Value changed from: 31.05->31.2
+Not enough difference no action
+Iteration: 1063
+Value changed from: 31.2->31.1
+Not enough difference no action
+Iteration: 1064
+Value changed from: 31.1->30.95
+Not enough difference no action
+Iteration: 1065
+Value changed from: 30.95->31.0
+Not enough difference no action
+Iteration: 1066
+Value changed from: 31.0->31.0
+Not enough difference no action
+Iteration: 1067
+Value changed from: 31.0->31.0
+Not enough difference no action
+Iteration: 1068
+Value changed from: 31.0->30.95
+Not enough difference no action
+Iteration: 1069
+Value changed from: 30.95->30.95
+Not enough difference no action
+Iteration: 1070
+Value changed from: 30.95->30.9
+Not enough difference no action
+Iteration: 1071
+Value changed from: 30.9->30.9
+Not enough difference no action
+Iteration: 1072
+Value changed from: 30.9->30.95
+Not enough difference no action
+Iteration: 1073
+Value changed from: 30.95->30.95
+Not enough difference no action
+Iteration: 1074
+Value changed from: 30.95->31.0
+Not enough difference no action
+Iteration: 1075
+Value changed from: 31.0->30.8
+Not enough difference no action
+Iteration: 1076
+Value changed from: 30.8->30.8
+Not enough difference no action
+Iteration: 1077
+Value changed from: 30.8->30.7
+Not enough difference no action
+Iteration: 1078
+Value changed from: 30.7->30.8
+Not enough difference no action
+Iteration: 1079
+Value changed from: 30.8->30.8
+Not enough difference no action
+Iteration: 1080
+Value changed from: 30.8->30.75
+Not enough difference no action
+Iteration: 1081
+Value changed from: 30.75->30.6
+Not enough difference no action
+Iteration: 1082
+Value changed from: 30.6->30.65
+Not enough difference no action
+Iteration: 1083
+Value changed from: 30.65->30.65
+Not enough difference no action
+Iteration: 1084
+Value changed from: 30.65->30.65
+Not enough difference no action
+Iteration: 1085
+Value changed from: 30.65->30.65
+Not enough difference no action
+Iteration: 1086
+Value changed from: 30.65->30.55
+Not enough difference no action
+Iteration: 1087
+Value changed from: 30.55->30.6
+Not enough difference no action
+Iteration: 1088
+Value changed from: 30.6->30.6
+Not enough difference no action
+Iteration: 1089
+Value changed from: 30.6->30.25
+Not enough difference no action
+Iteration: 1090
+Value changed from: 30.25->30.3
+Not enough difference no action
+Iteration: 1091
+Value changed from: 30.3->30.7
+Not enough difference no action
+Iteration: 1092
+Value changed from: 30.7->30.6
+Not enough difference no action
+Iteration: 1093
+Value changed from: 30.6->30.6
+Not enough difference no action
+Iteration: 1094
+Value changed from: 30.6->30.25
+Not enough difference no action
+Iteration: 1095
+Value changed from: 30.25->30.25
+Not enough difference no action
+Iteration: 1096
+Value changed from: 30.25->30.05
+Not enough difference no action
+Iteration: 1097
+Value changed from: 30.05->30.15
+Not enough difference no action
+Iteration: 1098
+Value changed from: 30.15->30.15
+Not enough difference no action
+Iteration: 1099
+Value changed from: 30.15->29.9
+Not enough difference no action
+Iteration: 1100
+Value changed from: 29.9->29.9
+Not enough difference no action
+Iteration: 1101
+Value changed from: 29.9->30.55
+Dummy Sell of sample.csv of position: CE at strike price of: 500
+Dummy Sell of sample.csv of position: PE at strike price of: 500
+Iteration: 1102
+Value changed from: 30.55->30.6
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 1103
+Value changed from: 30.6->30.6
+Not enough difference no action
+Iteration: 1104
+Value changed from: 30.6->30.75
+Not enough difference no action
+Iteration: 1105
+Value changed from: 30.75->30.75
+Not enough difference no action
+Iteration: 1106
+Value changed from: 30.75->30.9
+Not enough difference no action
+Iteration: 1107
+Value changed from: 30.9->30.35
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 1108
+Value changed from: 30.35->30.55
+Not enough difference no action
+Iteration: 1109
+Value changed from: 30.55->30.45
+Not enough difference no action
+Iteration: 1110
+Value changed from: 30.45->30.75
+Not enough difference no action
+Iteration: 1111
+Value changed from: 30.75->30.6
+Not enough difference no action
+Iteration: 1112
+Value changed from: 30.6->30.75
+Not enough difference no action
+Iteration: 1113
+Value changed from: 30.75->30.7
+Not enough difference no action
+Iteration: 1114
+Value changed from: 30.7->30.4
+Not enough difference no action
+Iteration: 1115
+Value changed from: 30.4->30.25
+Dummy Buy of sample.csv of position: CE at strike price of: 500
+Dummy Buy of sample.csv of position: PE at strike price of: 500
+Iteration: 1116
+Value changed from: 30.25->30.5
+Not enough difference no action
+Iteration: 1117
+Value changed from: 30.5->30.4
+Not enough difference no action
+Iteration: 1118
+Value changed from: 30.4->30.4
+Not enough difference no action
+Iteration: 1119
+Value changed from: 30.4->30.4
+Not enough difference no action
+Iteration: 1120
+Value changed from: 30.4->30.4
+Not enough difference no action
+Iteration: 1121
+Value changed from: 30.4->30.3
+Not enough difference no action
+Iteration: 1122
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1123
+Value changed from: 30.3->30.5
+Not enough difference no action
+Iteration: 1124
+Value changed from: 30.5->30.0
+Not enough difference no action
+Iteration: 1125
+Value changed from: 30.0->30.2
+Not enough difference no action
+Iteration: 1126
+Value changed from: 30.2->30.0
+Not enough difference no action
+Iteration: 1127
+Value changed from: 30.0->30.0
+Not enough difference no action
+Iteration: 1128
+Value changed from: 30.0->30.3
+Not enough difference no action
+Iteration: 1129
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1130
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1131
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1132
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1133
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1134
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1135
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1136
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1137
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1138
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1139
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1140
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1141
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1142
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1143
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1144
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1145
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1146
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1147
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1148
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1149
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1150
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1151
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1152
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1153
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1154
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1155
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1156
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1157
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1158
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1159
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1160
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1161
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1162
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1163
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1164
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1165
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1166
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1167
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1168
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1169
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1170
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1171
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1172
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1173
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1174
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1175
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1176
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1177
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1178
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1179
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1180
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1181
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1182
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1183
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1184
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1185
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1186
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1187
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1188
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1189
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1190
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1191
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1192
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1193
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1194
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1195
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1196
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1197
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1198
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1199
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1200
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1201
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1202
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1203
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1204
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1205
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1206
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1207
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1208
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1209
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1210
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1211
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1212
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1213
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1214
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1215
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1216
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1217
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1218
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1219
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1220
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1221
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1222
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1223
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1224
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1225
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1226
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1227
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1228
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1229
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1230
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1231
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1232
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1233
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1234
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1235
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1236
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1237
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1238
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1239
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1240
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1241
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1242
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1243
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1244
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1245
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1246
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1247
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1248
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1249
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1250
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1251
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1252
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1253
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1254
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1255
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1256
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1257
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1258
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1259
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1260
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1261
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1262
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1263
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1264
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1265
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1266
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1267
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1268
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1269
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1270
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1271
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1272
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1273
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1274
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1275
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1276
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1277
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1278
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1279
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1280
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1281
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1282
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1283
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1284
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1285
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1286
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1287
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1288
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1289
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1290
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1291
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1292
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1293
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1294
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1295
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1296
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1297
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1298
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1299
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1300
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1301
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1302
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1303
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1304
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1305
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1306
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1307
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1308
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1309
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1310
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1311
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1312
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1313
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1314
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1315
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1316
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1317
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1318
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1319
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1320
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1321
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1322
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1323
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1324
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1325
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1326
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1327
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1328
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1329
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1330
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1331
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1332
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1333
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1334
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1335
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1336
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1337
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1338
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1339
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1340
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1341
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1342
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1343
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1344
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1345
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1346
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1347
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1348
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1349
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1350
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1351
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1352
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1353
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1354
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1355
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1356
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1357
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1358
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1359
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1360
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1361
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1362
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1363
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1364
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1365
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1366
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1367
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1368
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1369
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1370
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1371
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1372
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1373
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1374
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1375
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1376
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1377
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1378
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1379
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1380
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1381
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1382
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1383
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1384
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1385
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1386
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1387
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1388
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1389
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1390
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1391
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1392
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1393
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1394
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1395
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1396
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1397
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1398
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1399
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1400
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1401
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1402
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1403
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1404
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1405
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1406
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1407
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1408
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1409
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1410
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1411
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1412
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1413
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1414
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1415
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1416
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1417
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1418
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1419
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1420
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1421
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1422
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1423
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1424
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1425
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1426
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1427
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1428
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1429
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1430
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1431
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1432
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1433
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1434
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1435
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1436
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1437
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1438
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1439
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1440
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1441
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1442
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1443
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1444
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1445
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1446
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1447
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1448
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1449
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1450
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1451
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1452
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1453
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1454
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1455
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1456
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1457
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1458
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1459
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1460
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1461
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1462
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1463
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1464
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1465
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1466
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1467
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1468
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1469
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1470
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1471
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1472
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1473
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1474
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1475
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1476
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1477
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1478
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1479
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1480
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1481
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1482
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1483
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1484
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1485
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1486
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1487
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1488
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1489
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1490
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1491
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1492
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1493
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1494
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1495
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1496
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1497
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1498
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1499
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1500
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1501
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1502
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1503
+Value changed from: 30.3->30.3
+Not enough difference no action
+Iteration: 1504
+Value changed from: 30.3->30.3
+Not enough difference no action
+Ending Simulator
+Total Profit Acquired: 17870.0
