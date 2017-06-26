@@ -8,10 +8,27 @@ def dummyBuy(stockCode, position, strike_price):
 def dummySell(stockCode, position, strike_price):
     print "Dummy Sell of " + stockCode + " of position: " + position + " at strike price of: " + strike_price
 
+#sys.stdout = open("output.txt", 'wb')
 
+#Initialization of needed variables
 
+iteration = 0
+pre_total_CEPE = 0
+total_CEPE = 0
 
-sys.stdout = open("output.txt", 'wb')
+no_transactions = 0     #number of transactions completed
+
+profit_first = 0    #Gives profits for each completed transaction
+profit_second = 0
+total_profit = 0    #Gives total profit after end of simulation
+buy_first = 0         #First position buy and sell prices
+sell_first = 0
+buy_second = 0        #second position buy and sell prices
+sell_second = 0
+
+transaction_first = 0    #To understand whether a transaction pair has completed or not 0=no action done, 1= only one actio done 2=transaction pair complete
+transaction_second = 0
+
 
 print "Trading Simulation"
 
@@ -60,37 +77,52 @@ print "First Position: " + first_position + " " + first_position_action + " at "
 print "Second Position: " + second_position + " " + second_position_action + " at " + strike_second
 #confirmation to the actions we decided
 
-#Initialization of needed variables
 
-iteration = 0
-pre_total_CEPE = 0
-total_CEPE = 0
+#First orders: -> choice to be user inputted
+choice_flag = 0
+choice = raw_input("Do you want to enter order details(Y/N)? ")
+if(choice == "Y"):
+    if(first_position_action == "Buy"):
+        buy_first = float(raw_input("First Position Buy Price: "))
+        dummyBuy(stockCode, first_position, strike_first)
+        buyFlag_first = 1
+        sellFlag_first = 0
+    else:
+        sell_first = float(raw_input("First Position Sell Price: "))
+        dummySell(stockCode, first_position, strike_first)
+        sellFlag_first = 1
+        buyFlag_first = 0
+    transaction_first = 1
+    print "Type of transaction: " + str(transaction_first)
+    no_transctions = no_transactions + 1
+    if(second_position_action == "Buy"):
+        buy_second = float(raw_input("Second Position Buy Price: "))
+        dummyBuy(stockCode, second_position, strike_second)
+        buyFlag_second = 1
+        sellFlag_second = 0
+    else:
+        sell_second = float(raw_input("Second Position Sell Price: "))
+        dummySell(stockCode, second_position, strike_second)
+        sellFlag_second = 1
+        buyFlag_second = 0
+    transaction_second = 1
+    print "Type of trnasaction: " + str(transaction_second)
+    no_transctions = no_transactions + 1
+    pre_total_CEPE = buy_first + sell_first + buy_second + sell_second
+    iteration = 1
+else:
+    iteration = 0
 
-no_transactions = 0     #number of transactions completed
-
-profit_first = 0    #Gives profits for each completed transaction
-profit_second = 0
-total_profit = 0    #Gives total profit after end of simulation
-buy_first = 0         #First position buy and sell prices
-sell_first = 0
-buy_second = 0        #second position buy and sell prices
-sell_second = 0
-
-
-transaction_first = 0    #To understand whether a transaction pair has completed or not 0=no action done, 1= only one actio done 2=transaction pair complete
-transaction_second = 0
 
 #Open the file (use the name of the file without extension)
 with open(stockCode, 'rb') as stockData:
     for row in stockData:
+
+        #Split each row in the file with comma and store in a list called 'columns'
         columns = row.split(",")
         if(iteration > 0):
             print "Iteration: " + str(iteration)
-    
-            #Split each row in the file with comma and store in a list called 'columns'
-    
-          
-            
+
             #EQ_PROCE is the 3rd column so extract element at index 2 (n-1)
             #Similarly you can extract other column details
     
@@ -104,7 +136,8 @@ with open(stockCode, 'rb') as stockData:
                 total_CEPE = float(CORRECTED_500_PE_PRICE) + float(CORRECTED_500_CE_PRICE)
             except ValueError, e:
                 print "value error detected"
-    
+            if(total_CEPE == 0):
+                continue
             #Getting Value Error : Cannot convert str into float
           
             #On first iteration no pre_total_CEPE value available so use default value    
@@ -120,7 +153,7 @@ with open(stockCode, 'rb') as stockData:
             print "But actual difference from ordered CEPE is: " + str(difference)
             
             #As per baba's instruction transaction occurs only after sufficient difference (for now 0.5)
-            if((difference >= 0.3) and ((sellFlag_first == 0) or (sellFlag_second == 0))):        
+            if((difference >= diff_check) and ((sellFlag_first == 0) or (sellFlag_second == 0))):        
                 dummySell(stockCode, first_position, strike_first)
                 sellFlag_first = 1 #set the sell flag
                 transaction_first = transaction_first + 1
@@ -166,9 +199,8 @@ with open(stockCode, 'rb') as stockData:
                     except ValueError, e:
                         print "Value Error detected again......"
                         difference = 0
-            
-            
-            elif((difference <= (-(0.3))) and ((buyFlag_first == 0) or (buyFlag_second == 0))):
+                        
+            elif((difference <= diff_check_neg) and ((buyFlag_first == 0) or (buyFlag_second == 0))):
                 dummyBuy(stockCode, first_position, strike_first)
                 buyFlag_first = 1 #set the buy flag
                 transaction_first = transaction_first+1  #Iterate transaction pair counter
