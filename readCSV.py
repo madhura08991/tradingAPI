@@ -42,6 +42,7 @@ strike_second = raw_input("Enter second position strike price: ")
 #Decide which action for PE and which for CE in the beginning
 first_position_action = raw_input("Enter the first position action: ")
 second_position_action = raw_input("Enter the second position action: ")
+
 #Set the flags according to user input
 
 #these flags tells the algo whether or not these actions are already done or not
@@ -75,6 +76,12 @@ buy_first = 0         #First position buy and sell prices
 sell_first = 0
 buy_second = 0        #second position buy and sell prices
 sell_second = 0
+
+                        #these flags tells the algo whether or not these actions are already done or not
+buyFlag_first = 0
+sellFlag_first = 0
+buyFlag_second = 0
+sellFlag_second = 0
 
 
 transaction_first = 0    #To understand whether a transaction pair has completed or not 0=no action done, 1= only one actio done 2=transaction pair complete
@@ -123,6 +130,7 @@ with open(stockCode, 'rb') as stockData:
             if((difference >= 0.3) and ((sellFlag_first == 0) or (sellFlag_second == 0))):        
                 dummySell(stockCode, first_position, strike_first)
                 sellFlag_first = 1 #set the sell flag
+
                 transaction_first = transaction_first + 1
                 no_transactions = no_transactions + 1
                 print "Type of transaction: " + str(transaction_first)
@@ -171,6 +179,7 @@ with open(stockCode, 'rb') as stockData:
             elif((difference <= (-(0.3))) and ((buyFlag_first == 0) or (buyFlag_second == 0))):
                 dummyBuy(stockCode, first_position, strike_first)
                 buyFlag_first = 1 #set the buy flag
+
                 transaction_first = transaction_first+1  #Iterate transaction pair counter
                 no_transactions = no_transactions + 1
                 print "Type of transaction: " + str(transaction_first)
@@ -181,13 +190,13 @@ with open(stockCode, 'rb') as stockData:
 
                 if(transaction_first == 1):
                     sellFlag_first = 0 #reset the sell flags
-
                 else:
                         try:
                             profit_first = float(sell_first) - float(buy_first) #if second transaction then calculate profit(in units)
                             difference = 0
                             total_profit = total_profit + profit_first
                             print "Profit from this transaction: " + str(profit_first)
+
                         except ValueError ,e:
                             print "Value Error detected again....."
                             difference = 0
@@ -232,7 +241,6 @@ with open(stockCode, 'rb') as stockData:
                 buyFlag_second = 0
                 sellFlag_second = 0
                 difference = 0
-            
           
             #Set current values as previous and change current values in next iteration    
                 
@@ -244,10 +252,8 @@ with open(stockCode, 'rb') as stockData:
             try:        
                 pre_total_CEPE = float(pre_CE_PRICE) + float(pre_PE_PRICE)
             except ValueError , e :
-                print "Value error detected"
-            
+                print "Value error detected"         
             iteration = iteration + 1
-
         else:
             iteration = 1
         
