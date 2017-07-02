@@ -139,7 +139,8 @@ with open(stockCode, 'rb') as stockData:
             if(total_CEPE == 0):
                 continue
             #Getting Value Error : Cannot convert str into float
-          
+
+##################################### Algorithm part ########################################################################################          
             #On first iteration no pre_total_CEPE value available so use default value    
           
             if(iteration == 1):
@@ -151,121 +152,181 @@ with open(stockCode, 'rb') as stockData:
                 difference = difference + (total_CEPE - pre_total_CEPE)    #total difference is now calculated from third iteration onwards
                 print "Value changed from: " + str(pre_total_CEPE) + "->" + str(total_CEPE)
             print "But actual difference from ordered CEPE is: " + str(difference)
+
+############################# SELL ALGORITHM CODE ##################################################################################
             
-            #As per baba's instruction transaction occurs only after sufficient difference (for now 0.5)
+            #As per baba's instruction transaction occurs only after sufficient difference (now a variable)
             if((difference >= diff_check) and ((sellFlag_first == 0) or (sellFlag_second == 0))):        
-                dummySell(stockCode, first_position, strike_first)
-                sellFlag_first = 1 #set the sell flag
-                transaction_first = transaction_first + 1
-                no_transactions = no_transactions + 1
-                print "Type of transaction: " + str(transaction_first)
-                if(first_position == "CE"):
-                    sell_first = CORRECTED_500_CE_PRICE
-                else:
-                    sell_first = CORRECTED_500_PE_PRICE
+                
+################################ FIRST POSITION ##########################################################################################
+            
+                if(sellFlag_first == 0):    
+                    dummySell(stockCode, first_position, strike_first)
+                    sellFlag_first = 1 #set the sell flag
+                    transaction_first = transaction_first + 1
+                    no_transactions = no_transactions + 1
+                    print "Type of transaction: " + str(transaction_first)
+                    if(first_position == "CE"):
+                        sell_first = CORRECTED_500_CE_PRICE
+                    else:
+                        sell_first = CORRECTED_500_PE_PRICE
+    
+                    if(transaction_first == 1):
+                        buyFlag_first = 0 #reset the buy flag
+    
+                    else:
+                        try:
+                            profit_first = float(sell_first) - float(buy_first)
+                            total_profit = total_profit + profit_first
+                            difference = 0  #reset the difference
+                            print "Profit from this transaction: " + str(profit_first)
+                            dummySell(stockCode, first_position, strike_first)
+                            sellFlag_first = 1
+                            transaction_first = 1
+                            no_transactions += 1
+                            buyFlag_first = 0
+                            print "Type of transaction: " + str(transaction_first)
+                            if(first_position == "CE"):
+                                sell_first = CORRECTED_500_CE_PRICE
+                            else:
+                                sell_first = CORRECTED_500_PE_PRICE
+                        except ValueError, e:
+                            print "Value Error detected"
+        
+########################################### SECOND POSITION ###############################################################################    
+                
+                if(sellFlag_second == 0):
+                    dummySell(stockCode,second_position,strike_second)
+                    sellFlag_second=1 #set the sell flag
+                    transaction_second = transaction_second + 1 
+                    no_transactions = no_transactions + 1
+                    print "Type of transaction: " + str(transaction_second)
+                    if(second_position == "CE"):
+                        sell_second = CORRECTED_500_CE_PRICE     
+                    else:
+                        sell_second = CORRECTED_500_PE_PRICE
+    
+                    if(transaction_second == 1):
+                        buyFlag_second = 0 #reset the buy flag
+    
+                    else:
+                        try:
+                            profit_second = float(sell_second) - float(buy_second)        
+                            total_profit = total_profit + profit_second
+                            difference = 0
+                            print "Profit from this transaction: " + str(profit_second)
+                            dummySell(stockCode,second_position,strike_second)
+                            sellFlag_second = 1 #set the sell flag
+                            buyFlag_second = 0
+                            transaction_second = 1 
+                            no_transactions = no_transactions + 1
+                            print "Type of transaction: " + str(transaction_second)
+                            if(second_position == "CE"):
+                                sell_second = CORRECTED_500_CE_PRICE     
+                            else:
+                                sell_second = CORRECTED_500_PE_PRICE
+                        
+                        except ValueError, e:
+                            print "Value Error detected again......"
+                            difference = 0
 
-                if(transaction_first == 1):
-                    buyFlag_first = 0 #reset the buy flag
-
-                else:
-                    try:
-                        profit_first = float(sell_first) - float(buy_first)
-                        total_profit = total_profit + profit_first
-                        difference = 0  #reset the difference
-                        print "Profit from this transaction: " + str(profit_first)
-                    except ValueError ,e:
-                        print "Value Error detected again....."
-                        difference = 0
-                            
-                dummySell(stockCode,second_position,strike_second)
-                sellFlag_second=1 #set the sell flag
-                transaction_second = transaction_second + 1 
-                no_transactions = no_transactions + 1
-                print "Type of transaction: " + str(transaction_first)
-                if(second_position == "CE"):
-                    sell_second = CORRECTED_500_CE_PRICE     
-                else:
-                    sell_second = CORRECTED_500_PE_PRICE
-
-                if(transaction_second == 1):
-                    buyFlag_second=0 #reset the buy flag
-
-                else:
-                    try:
-                        profit_second = float(sell_second) - float(buy_second)        
-                        total_profit = total_profit + profit_second
-                        difference = 0
-                        print "Profit from this transaction: " + str(profit_second)
-                    except ValueError, e:
-                        print "Value Error detected again......"
-                        difference = 0
+##################################### BUY ALORTIHM CODE #######################################################################################
                         
             elif((difference <= diff_check_neg) and ((buyFlag_first == 0) or (buyFlag_second == 0))):
-                dummyBuy(stockCode, first_position, strike_first)
-                buyFlag_first = 1 #set the buy flag
-                transaction_first = transaction_first+1  #Iterate transaction pair counter
-                no_transactions = no_transactions + 1
-                print "Type of transaction: " + str(transaction_first)
-                if(first_position == "CE"):
-                    buy_first = CORRECTED_500_CE_PRICE   #if first transaction then get price and store
-                else:
-                    buy_first = CORRECTED_500_PE_PRICE
 
-                if(transaction_first == 1):
-                    sellFlag_first = 0 #reset the sell flags
-
-                else:
+####################################### FIRST POSITION #####################################################################################    
+                if(buyFlag_first == 0):
+                    dummyBuy(stockCode, first_position, strike_first)
+                    buyFlag_first = 1 #set the buy flag
+                    transaction_first = transaction_first+1  #Iterate transaction pair counter
+                    no_transactions = no_transactions + 1
+                    print "Type of transaction: " + str(transaction_first)
+                    if(first_position == "CE"):
+                        buy_first = CORRECTED_500_CE_PRICE   #if first transaction then get price and store
+                    else:
+                        buy_first = CORRECTED_500_PE_PRICE
+    
+                    if(transaction_first == 1):
+                        sellFlag_first = 0 #reset the sell flags
+    
+                    else:
+                            try:
+                                profit_first = float(sell_first) - float(buy_first) #if second transaction then calculate profit(in units)
+                                difference = 0
+                                total_profit = total_profit + profit_first
+                                print "Profit from this transaction: " + str(profit_first)
+                                dummyBuy(stockCode, first_position, strike_first)
+                                buyFlag_first = 1 #set the buy flag
+                                sellFlag_first = 0
+                                transaction_first = 1  #Iterate transaction pair counter
+                                no_transactions = no_transactions + 1
+                                print "Type of transaction: " + str(transaction_first)
+                                if(first_position == "CE"):
+                                    buy_first = CORRECTED_500_CE_PRICE   #if first transaction then get price and store
+                                else:
+                                    buy_first = CORRECTED_500_PE_PRICE
+                            
+                            except ValueError ,e:
+                                print "Value Error detected again....."
+                                difference = 0
+                                
+################################### SECOND POSITION #######################################################################################
+                if(buyFlag_second == 0):        
+                    dummyBuy(stockCode, second_position, strike_second)
+                    buyFlag_second = 1 #set the buy flag
+                    transaction_second = transaction_second + 1
+                    no_transactions = no_transactions + 1
+                    print "Type of transaction: " + str(transaction_second)
+    
+                    if(second_position == "CE"):
+                        buy_second = CORRECTED_500_CE_PRICE
+                    else:
+                        buy_second = CORRECTED_500_PE_PRICE
+    
+                    if(transaction_second == 1):
+                        sellFlag_second = 0#reset the sell flag
+    
+                    else:
                         try:
-                            profit_first = float(sell_first) - float(buy_first) #if second transaction then calculate profit(in units)
-                            difference = 0
-                            total_profit = total_profit + profit_first
-                            print "Profit from this transaction: " + str(profit_first)
+                            profit_second = float(sell_second) - float(buy_second)
+                            difference = 0    #reset the difference
+                            total_profit = total_profit + profit_second
+                            print "Profit from this transaction: " + str(profit_second)
+                            dummyBuy(stockCode, second_position, strike_second)
+                            buyFlag_second = 1 #set the buy flag
+                            sellFlag_second = 0
+                            transaction_second = 1
+                            no_transactions = no_transactions + 1
+                            print "Type of transaction: " + str(transaction_second)
+                            if(second_position == "CE"):
+                                buy_second = CORRECTED_500_CE_PRICE
+                            else:
+                                buy_second = CORRECTED_500_PE_PRICE
+    
                         except ValueError ,e:
-                            print "Value Error detected again....."
+                            print "ValueError Detected again....."
                             difference = 0
                             
                         
-                dummyBuy(stockCode, second_position, strike_second)
-                buyFlag_second = 1 #set the buy flag
-                transaction_second = transaction_second+1
-                no_transactions = no_transactions + 1
-                print "Type of transaction: " + str(transaction_first)
-
-                if(second_position == "CE"):
-                    buy_second = CORRECTED_500_CE_PRICE
-                else:
-                    buy_second = CORRECTED_500_PE_PRICE
-
-                if(transaction_second == 1):
-                    sellFlag_second = 0#reset the sell flag
-
-                else:
-                    try:
-                        profit_second = float(sell_second) - float(buy_second)
-                        difference = 0    #reset the difference
-                        total_profit = total_profit + profit_second
-                        print "Profit from this transaction: " + str(profit_second)
-                    except ValueError ,e:
-                        print "ValueError Detected again....."
-                        difference = 0
-    
+######################### NO ACTION HANDLING CODE ###########################################################################################   
             else:
                 print "Not enough difference, or invalid decision averted. No action"
            
            
-            if(transaction_first == 2):
-                transaction_first = 0               #after a transaction pair is completed clear counter
-                buyFlag_first = 0
-                sellFlag_first = 0
-                difference = 0            #needs a new difference now
+#######################Undergoing experimental algorithm that replaces this##################################################################           
+            #if(transaction_first == 2):
+             #   transaction_first = 0               #after a transaction pair is completed clear counter
+              #  buyFlag_first = 0
+               # sellFlag_first = 0
+                #difference = 0            #needs a new difference now
                 
-            if(transaction_second == 2):
-                transaction_second = 0     #after a transaction pair is completed clear counter
-                buyFlag_second = 0
-                sellFlag_second = 0
-                difference = 0
+            #if(transaction_second == 2):
+             #   transaction_second = 0     #after a transaction pair is completed clear counter
+              #  buyFlag_second = 0
+               # sellFlag_second = 0
+                #difference = 0
             
-          
+###########################################################################################################################################          
             #Set current values as previous and change current values in next iteration    
                 
             pre_EQ = columns[2]
@@ -285,8 +346,13 @@ with open(stockCode, 'rb') as stockData:
         
         #print EQ_PROCE + "    |    " + CORRECTED_500_CE_PRICE + "   |   " + CORRECTED_500_PE_PRICE
 		#commented the print details becauseof use of dummy functions to emulate buying and seelling
+
+################################### END OF ALGORITHM CODE ##################################################################################		
+
 print "Total Profit Acquired(in points): " + str(total_profit)
 total_profit = float(total_profit)*lot_size
 print "Ending Simulator"
 print "Total Profit Acquired(in Rs.): " + str(total_profit)
 print "No of transactions done: " + str(no_transactions)
+
+#################################### END OF CODE ############################################################################################
